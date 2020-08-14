@@ -5,6 +5,5 @@
  <h4 align="center">Research | Project | Collaboration </h4> </p>
 
 ### Upcomming Event: 
- <p align="center">Event-1: 10 Python Application | 10 lines of code | Video Explanation</p>
+* Event1: 10 Python Application | 10 lines of code | Video Explanation
 
-  <p align="center">
