@@ -4,7 +4,7 @@
  <h2 align="center">QX Research</h2>
  
  ```diff
-QX Research is a online Developer | Research club in collaboration with Mozilla Campus Club.
+Online RESEARCH | DEVELOPER Club in collaboration with MOZILLA CAMPUS CLUB.
 We focus on the application of Programming @ AI ML CLOUD COMPUTING COMPUTER VISION IOT etc.
 Our Research Sessions will take place remotely over video chat, so you can be anywhere in the world.
 
