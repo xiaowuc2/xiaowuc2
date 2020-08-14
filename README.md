@@ -6,5 +6,7 @@
 
 ### Upcomming Event: 
 
-<p allign="center"> • Event1: 10 Python Application | 10 lines of code | Video Explanation </p>
-
+<p align="center">
+ <p align="center"> • 10 Python Application | 10 lines of code | Video Explanation</p>
+</p>
+  <p align="center">
