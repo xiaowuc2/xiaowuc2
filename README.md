@@ -5,9 +5,10 @@
  
  ```diff
 QX Research is a online Developer | Research club in collaboration with Mozilla Campus Club.
-We focus on the application of Programming @ AI ML Cloud Computing Computer Vision IOT etc.
+We focus on the application of Programming @ AI ML CLOUD COMPUTING COMPUTER VISION IOT etc.
 Our Research Sessions will take place remotely over video chat, so you can be anywhere in the world.
-+ " ENHANCE THE KNOWLEDGE YOU ALREADY HAVE, RESEARCH ON YOURSELF"
+
++ ENHANCE THE KNOWLEDGE YOU ALREADY HAVE, RESEARCH ON YOURSELF
 ```
 
 ### Upcomming Event: 
