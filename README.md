@@ -18,3 +18,11 @@ Our Research Sessions will take place remotely over video chat, so you can be an
 ### Past Events:
 
 * No Results
+
+### @qxresearch
+
+  [![Twitter Follow](https://img.shields.io/twitter/follow/qxresearch.svg?style=social&label=Follow)](https://twitter.com/qxresearch)
+  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@qxresearch&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/qxresearch) 
+  [![LinkedIn](https://img.shields.io/static/v1.svg?label=Join&message=@qxresearch&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/company/68716543)
+  [![YouTube](https://img.shields.io/static/v1.svg?label=Subscribe&message=@qxresearch&color=grey&logo=youtube&style=flat&logoColor=white&colorA=critical)](https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA)
+
