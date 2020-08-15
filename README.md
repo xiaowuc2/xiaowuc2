@@ -19,6 +19,12 @@ Our Research Sessions will take place remotely over video chat, so you can be an
 
 * No Results
 
+#### Become Official Member
+
+* Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
+* Join Telegram Group [@qxresearch](https://t.me/qxresearch)
+* <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (subject: GitHub id @qxresearch)
+
 ### @qxresearch
 
   [![Twitter Follow](https://img.shields.io/twitter/follow/qxresearch.svg?style=social&label=Follow)](https://twitter.com/qxresearch)
