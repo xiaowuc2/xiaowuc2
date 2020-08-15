@@ -27,7 +27,7 @@ Our Research Sessions will take place remotely over video chat, so you can be an
 - <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (subject: GitHub id @qxresearch)
   
  <p align="center">
- <img width="450px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/image.gif" align="center" alt="GitHub Readme Stats" />
+ <img width="410px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/image.gif" align="center" alt="GitHub Readme Stats" />
   
 
 ### @qxresearch
