@@ -6,7 +6,7 @@
 
  ```diff
 Online RESEARCH | DEVELOPER Club in collaboration with MOZILLA CAMPUS CLUB.
-We focus on the application of Programming @ AI ML CLOUD COMPUTING COMPUTER VISION IOT etc.
+We focus on the Application of Programming @ AI ML CLOUD COMPUTING COMPUTER VISION IOT etc.
 Our Research Sessions will take place remotely over video chat, so you can be anywhere in the world.
 + ENHANCE THE KNOWLEDGE YOU ALREADY HAVE, RESEARCH ON YOURSELF
 ```
