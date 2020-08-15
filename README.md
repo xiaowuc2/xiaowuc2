@@ -25,8 +25,11 @@ Our Research Sessions will take place remotely over video chat, so you can be an
 - Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
 - Join Telegram Group [@qxresearch](https://t.me/qxresearch)
 - <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (subject: GitHub id @qxresearch)
+  
+ <p align="center">
+ <img width="500px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/image.gif" align="center" alt="GitHub Readme Stats" />
+  
 
- 
 ### @qxresearch
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/qxresearch.svg?style=social&label=Follow)](https://twitter.com/qxresearch)
@@ -34,8 +37,3 @@ Our Research Sessions will take place remotely over video chat, so you can be an
   [![LinkedIn](https://img.shields.io/static/v1.svg?label=Join&message=@qxresearch&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/company/68716543)
   [![YouTube](https://img.shields.io/static/v1.svg?label=Subscribe&message=@qxresearch&color=grey&logo=youtube&style=flat&logoColor=white&colorA=critical)](https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA)
   
-  
- <p align="center">
- <img width="500px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/image.gif" align="center" alt="GitHub Readme Stats" />
-  
-
