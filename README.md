@@ -2,7 +2,8 @@
  <img width="100px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/r2.png" align="center" alt="GitHub Readme Stats" />
  
  <h2 align="center">QX Research</h2>
- 
+
+
  ```diff
 Online RESEARCH | DEVELOPER Club in collaboration with MOZILLA CAMPUS CLUB.
 We focus on the application of Programming @ AI ML CLOUD COMPUTING COMPUTER VISION IOT etc.
@@ -13,17 +14,17 @@ Our Research Sessions will take place remotely over video chat, so you can be an
 
 ### Upcomming Event: 
 
-* Event1: 10 Python Application | 10 lines of code | Video Explanation
+- Event1: 10 Python Application | 10 lines of code | Video Explanation
 
 ### Past Events:
 
-* No Results
+- No Results
 
 #### Become Official Member
 
-* Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
-* Join Telegram Group [@qxresearch](https://t.me/qxresearch)
-* <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (subject: GitHub id @qxresearch)
+- Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
+- Join Telegram Group [@qxresearch](https://t.me/qxresearch)
+- <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (subject: GitHub id @qxresearch)
 
 ### @qxresearch
 
