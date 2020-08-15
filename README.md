@@ -12,11 +12,11 @@ Our Research Sessions will take place remotely over video chat, so you can be an
 + ENHANCE THE KNOWLEDGE YOU ALREADY HAVE, RESEARCH ON YOURSELF
 ```
 
-## Upcomming Event: 
+### Upcomming Event: 
 
 - Event1: 10 Python Application | 10 lines of code | Video Explanation
 
-## Past Events:
+### Past Events:
 
 - No Results
 
