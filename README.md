@@ -13,15 +13,15 @@ Our Research Sessions will take place remotely over video chat, so you can be an
 
 ```
 
-### Upcomming Events: 
+### Upcomming Events 
 
 - **Event1**: 10 Python Application | 10 lines of code    ``18/08/20``
 
-### Past Events:
+### Past Events
 
 - ``No Results``
 
-### 🚀 Become Official Member
+### Become Official Member
 
 - Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
 - Join Telegram Group [@qxresearch](https://t.me/qxresearch)
