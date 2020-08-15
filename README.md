@@ -31,7 +31,6 @@ Our Research Sessions will take place remotely over video chat, so you can be an
  <img width="410px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/image.gif" align="center" alt="GitHub Readme Stats" />
   
 
-### @qxresearch
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/qxresearch.svg?style=social&label=Follow)](https://twitter.com/qxresearch)
   [![Instagram](https://img.shields.io/static/v1.svg?label=Instagram&message=@qxresearch&color=grey&logo=instagram&style=flat&logoColor=white&colorA=violet)](https://www.instagram.com/qxresearch) 
