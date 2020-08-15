@@ -14,7 +14,7 @@ Our Research Sessions will take place remotely over video chat, so you can be an
 
 ### Upcomming Event: 
 
-- ``Event1: 10 Python Application | 10 lines of code | Video Explanation``
+- **Event1**: ``10 Python Application | 10 lines of code``
 
 ### Past Events:
 
