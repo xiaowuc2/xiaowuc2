@@ -12,15 +12,15 @@ Our Research Sessions will take place remotely over video chat, so you can be an
 + ENHANCE THE KNOWLEDGE YOU ALREADY HAVE, RESEARCH ON YOURSELF
 ```
 
-### Upcomming Event: 
+## Upcomming Event: 
 
 - Event1: 10 Python Application | 10 lines of code | Video Explanation
 
-### Past Events:
+## Past Events:
 
 - No Results
 
-#### Become Official Member
+### Become Official Member
 
 - Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
 - Join Telegram Group [@qxresearch](https://t.me/qxresearch)
