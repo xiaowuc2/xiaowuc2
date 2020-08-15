@@ -5,7 +5,7 @@
 
 
 [![GitHub](https://img.shields.io/static/v1.svg?label=Members&message=110&color=success&logo=github&style=social)](https://github.com/orgs/qxresearch/people)
-[![Telegram](https://img.shields.io/static/v1.svg?label=Telegram&message=@qxresearch&color=success&logo=telegram&style=social)](https://t.me/qxresearch)
+[![Telegram](https://img.shields.io/static/v1.svg?label=Telegram&message=279&color=success&logo=telegram&style=social)](https://t.me/qxresearch)
   [![Instagram](https://img.shields.io/static/v1.svg?label=Instagram&message=@qxresearch&color=grey&logo=instagram&style=flat&logoColor=white&colorA=violet)](https://www.instagram.com/qxresearch) 
   [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@qxresearch&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/company/68716543)
   [![YouTube](https://img.shields.io/static/v1.svg?label=YouTube&message=@qxresearch&color=grey&logo=youtube&style=flat&logoColor=white&colorA=critical)](https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA)
