@@ -36,6 +36,6 @@ Our Research Sessions will take place remotely over video chat, so you can be an
   
   
  <p align="center">
- <img width="500px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/y-dribbble.gif" align="center" alt="GitHub Readme Stats" />
+ <img width="500px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/image.gif" align="center" alt="GitHub Readme Stats" />
   
 
