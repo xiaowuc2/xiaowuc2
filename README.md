@@ -11,9 +11,9 @@
   [![Instagram](https://img.shields.io/static/v1.svg?label=Instagram&message=@qxresearch&color=grey&logo=instagram&style=flat&logoColor=white&colorA=violet)](https://www.instagram.com/qxresearch) 
   [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@qxresearch&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/company/68716543)   
     
-<p allign="center"> . </p>
+<h1 align="center">.</h1>
 
- ```diff
+```diff
 
 Online RESEARCH | DEVELOPER Club in collaboration with MOZILLA CAMPUS CLUB.
 We focus on the Application of Programming @ AI ML CLOUD COMPUTING COMPUTER VISION IOT etc.
