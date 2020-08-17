@@ -10,8 +10,6 @@
 [![YouTube](https://img.shields.io/static/v1.svg?label=YouTube&message=@qxresearch&color=grey&logo=youtube&style=flat&logoColor=white&colorA=critical)](https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA)
   [![Instagram](https://img.shields.io/static/v1.svg?label=Instagram&message=@qxresearch&color=grey&logo=instagram&style=flat&logoColor=white&colorA=violet)](https://www.instagram.com/qxresearch) 
   [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@qxresearch&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/company/68716543)   
-    
-<h1 align="center">.</h1>
 
 ```diff
 
