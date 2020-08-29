@@ -22,7 +22,7 @@ Our Research Sessions will take place remotely over video chat, so you can be an
 
 ### Upcomming Events 
 
-- **Event1:** [**10 Python Application | 10 lines of code**]()    ``18/08/20``
+- **Event1:** [**10 Python Application | 10 lines of code**]()    ``31/08/20``
 
 ### Past Events
 
