@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/r2.png" align="center" alt="GitHub Readme Stats" />
+ <img width="200px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/cir.png" align="center" alt="GitHub Readme Stats" />
  
  <h1 align="center">QX Research</h1>
 
