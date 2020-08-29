@@ -4,15 +4,11 @@
     <img width="200px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/cir.png" alt="Logo">
   </a>
 
-  <h3 align="center">Develop | Research</h3>
+  <h3 align="center">qxresearch | Develop | Research</h3>
 
   <p align="center">
   </p>
 </p>
-
-
-
- <h1 align="center">qx-Research</h1>
 
 
 [![GitHub](https://img.shields.io/static/v1.svg?label=Members&message=115&color=success&logo=github&style=social)](https://github.com/orgs/qxresearch/people)
