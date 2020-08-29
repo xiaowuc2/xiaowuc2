@@ -1,7 +1,7 @@
  <br />
 <p align="center">
   <a href="https://community.mozilla.org/en/groups/qx-research">
-    <img width="300px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/cir.png" alt="Logo">
+    <img width="200px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/cir.png" alt="Logo">
   </a>
 
   <h3 align="center">Develop | Research</h3>
