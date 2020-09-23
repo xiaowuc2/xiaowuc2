@@ -1,6 +1,6 @@
  <br />
 <p align="center">
-  <a href="https://community.mozilla.org/en/groups/qx-research">
+  <a href="https://qxresearch.github.io/qxresearch">
     <img width="200px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/cir.png" alt="Logo">
   </a>
 
