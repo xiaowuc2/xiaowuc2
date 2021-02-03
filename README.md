@@ -11,12 +11,10 @@
 </p>
 
 
-[![GitHub](https://img.shields.io/static/v1.svg?label=WorkedWith&message=125&color=success&logo=github&style=social)](https://github.com/orgs/qxresearch/people)
-[![Telegram](https://img.shields.io/static/v1.svg?label=Telegram&message=279&color=success&logo=telegram&style=social)](https://t.me/qxresearch)
-[![Twitter Follow](https://img.shields.io/twitter/follow/qxresearch.svg?style=social&label=Follow)](https://twitter.com/qxresearch)
+[![GitHub](https://img.shields.io/static/v1.svg?label=Worked.With&message=125&color=success&logo=github&style=social)](https://github.com/orgs/qxresearch/people)
 [![YouTube](https://img.shields.io/static/v1.svg?label=YouTube&message=@qxresearch&color=grey&logo=youtube&style=flat&logoColor=white&colorA=critical)](https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA)
-  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@qxresearch&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/company/68716543)
-   [![Sponsor](https://img.shields.io/static/v1.svg?label=$1&message=Donation&color=grey&logo=sponsor&style=flat&logoColor=white&colorA=green)](https://github.com/xiaowuc2/xiaowuc2/blob/master/source/sponsor.png) 
+  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@qxresearch&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/xiaowuc2)
+
 
 ```diff
 
