@@ -11,7 +11,7 @@
 </p>
 
 
-[![GitHub](https://img.shields.io/static/v1.svg?label=Worked with&message=125&color=success&logo=github&style=social)](https://github.com/orgs/qxresearch/people)
+[![GitHub](https://img.shields.io/static/v1.svg?label=WorkedWith&message=125&color=success&logo=github&style=social)](https://github.com/orgs/qxresearch/people)
 [![Telegram](https://img.shields.io/static/v1.svg?label=Telegram&message=279&color=success&logo=telegram&style=social)](https://t.me/qxresearch)
 [![Twitter Follow](https://img.shields.io/twitter/follow/qxresearch.svg?style=social&label=Follow)](https://twitter.com/qxresearch)
 [![YouTube](https://img.shields.io/static/v1.svg?label=YouTube&message=@qxresearch&color=grey&logo=youtube&style=flat&logoColor=white&colorA=critical)](https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA)
