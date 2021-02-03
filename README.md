@@ -18,10 +18,10 @@
 
 ```diff
 
-Online RESEARCH | DEVELOPER Club in collaboration with MOZILLA CAMPUS CLUB.
-We focus on the Application of Programming @ AI ML CLOUD COMPUTING COMPUTER VISION IOT etc.
-Our Research Sessions will take place remotely over video chat, so you can be anywhere in the world.
-+ ENHANCE THE KNOWLEDGE YOU ALREADY HAVE, RESEARCH ON YOURSELF
+I'm 2nd yeas B.Tech (CS) student @UEMK Kolkata India
+Currently working on some mathematical problems using programming and IOT based projects.
+
+Learning : Computer Vision & Machine Learning
 
 ```
 
