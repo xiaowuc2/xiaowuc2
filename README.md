@@ -29,9 +29,9 @@ Learning : Computer Vision & Machine Learning
 
 - **Event1:** [**10 Python Application | 10 lines of code**](https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM)    ``20/09/20``
 
-### Past Events
-
-- ``No Results``
+<!--### Past Events-->
+ 
+<!--- ``No Results``-->
 
 ### Become Official Member
 
@@ -39,7 +39,7 @@ Learning : Computer Vision & Machine Learning
 - Join Telegram Group [@qxresearch](https://t.me/qxresearch)
 - <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (subject: ``GitHub id @qxresearch``)
   
-
+<!-- -->
   
 
 <h1 align="center">.</h1>
