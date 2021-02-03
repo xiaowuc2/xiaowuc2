@@ -19,7 +19,6 @@
 ```diff
 
 I'm 2nd yeas B.Tech (CS) student @UEMK Kolkata India
-Member of GDG | DSC | GitHub CX Research. Team Lead @qxresearch
 Currently solving some mathematical problems using programming and IOT based projects.
 
 Learning : Computer Vision & Machine Learning
