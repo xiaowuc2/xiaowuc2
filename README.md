@@ -27,7 +27,7 @@ Learning : Computer Vision & Machine Learning
 
 ### My Events @qxresearch 
 
-- **Event1:** [**10 Python Application | 10 lines of code**](https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM)    ``20/09/20``
+- **Event1:** [**10 Python Application | 10 lines of code**](https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM)
 
 <!--### Past Events-->
  
