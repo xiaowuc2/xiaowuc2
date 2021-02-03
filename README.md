@@ -1,7 +1,7 @@
  <br />
 <p align="center">
   <a href="https://qxresearch.github.io/qxresearch">
-    <img width="200px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/portfolio/math%201.png" alt="Logo">
+    <img width="200px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/portfolio/math2.png" alt="Logo">
   </a>
 
   <h3 align="center">qxresearch | Develop | Research</h3>
