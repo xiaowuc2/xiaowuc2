@@ -18,14 +18,14 @@
 
 ```diff
 
-I'm 2nd yeas B.Tech (CS) student @UEMK Kolkata India
+I'm a 2nd year B.Tech (CS) student @UEMK Kolkata India
 Currently solving some mathematical problems using programming and IOT based projects.
 
 Learning : Computer Vision & Machine Learning
 
 ```
 
-### Upcomming Events 
+### My Events @qxresearch 
 
 - **Event1:** [**10 Python Application | 10 lines of code**](https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM)    ``20/09/20``
 
