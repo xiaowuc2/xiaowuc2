@@ -39,9 +39,4 @@ Learning : Computer Vision & Machine Learning
 - Join Telegram Group [@qxresearch](https://t.me/qxresearch)
 - <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (subject: ``GitHub id @qxresearch``)
   
-<!-- -->
-  
-
-<h1 align="center">.</h1>
-
-  
+<!-- <h1 align="center">.</h1> -->
