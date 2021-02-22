@@ -19,7 +19,7 @@
 ```diff
 
 I'm a 2nd year B.Tech (CS) student @UEMK Kolkata India
-Currently solving some mathematical problems using programming and IOT based projects.
+Currently solving some mathematical problems using programming and IOT based projects leading Mozilla Campus Club @qxresearch.
 
 Learning : Computer Vision & Machine Learning
 
