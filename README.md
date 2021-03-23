@@ -4,7 +4,7 @@
     <img width="200px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/portfolio/math2.png" alt="Logo">
   </a>
 
-  <h3 align="center">Math | Computer Vision | ML</h3>
+  <h3 align="center">Math | ML | Computer Vision</h3>
 
   <p align="center">
   </p>
