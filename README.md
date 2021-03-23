@@ -24,7 +24,7 @@ Currently solving some mathematical problems using programming and IOT based pro
 
 Besides I'm a Creative Artist 🎨 
 
-Learning : Computer Vision, Machine Learning, Human Computer Interaction
+Learning : Computer Vision, Machine Learning, Human-Computer Interaction
 
 ```
 
