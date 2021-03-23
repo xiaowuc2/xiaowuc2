@@ -43,3 +43,4 @@ Learning : Computer Vision, Machine Learning, Human-Computer Interaction
 - <a href = "mailto: rohitmandal814566@gmail.com">Email</a> me your GitHub id (subject: ``GitHub id @qxresearch``)
   
 <!-- <h1 align="center">.</h1> -->
+<h4 align="center">💠</h4>
