@@ -14,7 +14,8 @@
 [![GitHub](https://img.shields.io/static/v1.svg?label=Collaborators&message=136&color=success&logo=github&style=social)](https://github.com/orgs/qxresearch/people)
 [![YouTube](https://img.shields.io/static/v1.svg?label=YouTube&message=@qxresearch&color=grey&logo=youtube&style=flat&logoColor=white&colorA=critical)](https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA)
   [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=xiaowuc2&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/xiaowuc2)
-    [![Quora](https://img.shields.io/static/v1.svg?label=Quora&message=83.5k+views&color=white&logo=quora&style=flat&logoColor=white&colorA=red)](https://www.quora.com/profile/Rohit-Prasan-Mandal)
+    [![Quora](https://img.shields.io/static/v1.svg?label=Quora&message=83.5k+views&color=white&logo=quora&style=social&logoColor=white&colorA=red)](https://www.quora.com/profile/Rohit-Prasan-Mandal)
+    [![GitHub](https://img.shields.io/static/v1.svg?label=Quora&message=83.5k+views&color=white&logo=quora&style=social)](https://github.com/orgs/qxresearch/people)
 
 
 ```diff
