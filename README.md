@@ -22,7 +22,7 @@
 I'm a 2nd year B.Tech (CS) student @UEMK Kolkata India
 Currently solving some mathematical problems using programming and IOT based projects leading Mozilla Campus Club @qxresearch
 
-I'm a Creative Artist 🎨 
+I'm a Creative Artist (Acrylic | Computer Vision)🎨 
 
 Learning : Computer Vision, Machine Learning, Human-Computer Interaction
 
