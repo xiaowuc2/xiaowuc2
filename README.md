@@ -20,8 +20,8 @@
 
 ```diff
 
-I am currently in my second year pursuing Bachelors of Technology in Computer Science @UEM Kolkata
-Currently solving some physics and mathematical problems using programming and IOT based projects. Leading Mozilla Campus 
+I am currently in my second year pursuing Bachelors of Technology in Computer Science @UEM Kolkata. I'm working on Higher
+physics and mathematical problems using programming and IOT based projects. Leading Mozilla Campus 
 Club @qxresearch
 
 I'm a Creative Artist (Acrylic | Computer Vision)🎨 
