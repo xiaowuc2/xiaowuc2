@@ -38,5 +38,15 @@ Learning : Computer Vision, Machine Learning, Human-Computer Interaction
  
 <!--- ``No Results``-->
 
-  
-<h1 align="center">.</h1>
+
+ <p align="center">
+    <br>
+    <br/>
+    <br />
+    <a href="https://drive.google.com/file/d/1lEGqO7mqZCshtmkeyJVRENtuy4peHY7O/view?usp=sharing">CV</a>
+    ·
+    <a href="https://github.com/qxresearch">Projects</a>
+    ·
+    <a href = "mailto: rohitmandal814566@gmail.com">email</a>
+  </p>
+</p>
