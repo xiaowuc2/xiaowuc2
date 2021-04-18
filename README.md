@@ -38,7 +38,7 @@ Learning : Computer Vision, Machine Learning, Human-Computer Interaction
  
 <!--- ``No Results``-->
 
-### Become Official Member
+### Become Developer @qxresearch
 
 - Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
 - Join Telegram Group [@qxresearch](https://t.me/qxresearch)
