@@ -38,10 +38,5 @@ Learning : Computer Vision, Machine Learning, Human-Computer Interaction
  
 <!--- ``No Results``-->
 
-### Become Developer @qxresearch
-
-- Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
-- Join Telegram Group [@qxresearch](https://t.me/qxresearch)
-- <a href = "mailto: rohitmandal814566@gmail.com">Email</a> me your GitHub id (subject: ``GitHub id @qxresearch``)
   
-<!-- <h1 align="center">.</h1> -->
+<h1 align="center">.</h1>
