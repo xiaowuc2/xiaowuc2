@@ -3,7 +3,7 @@
   <a href="https://qxresearch.github.io/qxresearch">
     <img width="200px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/clipart1004078.png" alt="Logo">
   </a>
-  <h3 align="center">Letter of Recommendation</h3>
+  <h3 align="center">Letter of Recommendation from:</h3>
   <p align="center">
   </p>
 </p>
