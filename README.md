@@ -20,7 +20,7 @@
 
 ```diff
 
-I'm a 2nd year B.Tech (CS) student @UEMK Kolkata India
+I am currently in my second year pursuing Bachelors of Technology in Computer Science @UEM Kolkata
 Currently solving some physics and mathematical problems using programming and IOT based projects. Leading Mozilla Campus 
 Club @qxresearch
 
