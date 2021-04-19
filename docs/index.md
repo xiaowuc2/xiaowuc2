@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+ <br />
+<p align="center">
+  <a href="https://qxresearch.github.io/qxresearch">
+    <img width="200px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/portfolio/math2.png" alt="Logo">
+  </a>
 
-You can use the [editor on GitHub](https://github.com/xiaowuc2/xiaowuc2/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+  <h3 align="center">Math | Computer Vision | ML</h3>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <p align="center">
+  </p>
+</p>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[![GitHub](https://img.shields.io/static/v1.svg?label=Collaborators&message=141&color=success&logo=github&style=social)](https://github.com/orgs/qxresearch/people)
+[![YouTube](https://img.shields.io/static/v1.svg?label=YouTube&message=@qxresearch&color=grey&logo=youtube&style=flat&logoColor=white&colorA=critical)](https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA)
+  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=xiaowuc2&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/xiaowuc2)
+    [![Quora](https://img.shields.io/static/v1.svg?label=Quora&message=85.5k+views&color=white&logo=quora&style=social)](https://www.quora.com/profile/Rohit-Prasan-Mandal)
+    [![LOR](https://img.shields.io/badge/Letter%20of%20Recommendation%20-2-blueviolet)](https://github.com/xiaowuc2/xiaowuc2/blob/master/LOR.md)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+```diff
 
-1. Numbered
-2. List
+I am currently in my second year pursuing Bachelors of Technology in Computer Science @UEM Kolkata. I'm working on Higher
+Physics and Mathematical Projects using Python(NumPy | Matplotlib | SciPy | scikit-learn | Pandas). Leading Mozilla Campus 
+Club @qxresearch
 
-**Bold** and _Italic_ and `Code` text
+I'm a Creative Artist (Acrylic | Computer Vision)🎨 
 
-[Link](url) and ![Image](src)
+Learning : Computer Vision, Machine Learning, Human-Computer Interaction
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### My Events @qxresearch 
 
-### Jekyll Themes
+- **Event1:** [**10 Python Application | 10 lines of code**](https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xiaowuc2/xiaowuc2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<!--### Past Events-->
+ 
+<!--- ``No Results``-->
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ <h4 align="center">
+    <a href="https://drive.google.com/file/d/1lEGqO7mqZCshtmkeyJVRENtuy4peHY7O/view?usp=sharing">CV</a>
+     ·  
+    <a href="https://github.com/xiaowuc2#----cv-----------projects----------email">Projects</a>
+     · 
+    <a href = "mailto: rohitmandal814566@gmail.com">Email</a>
+</p>
