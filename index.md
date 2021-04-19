@@ -33,7 +33,7 @@ Learning : Computer Vision, Machine Learning, Human-Computer Interaction
 
 ### My Events @qxresearch 
 
-- **Event1:** [**10 Python Application | 10 lines of code**](https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM)
+**Event1:** [**10 Python Application | 10 lines of code**](https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM)
 
 <!--### Past Events-->
  
@@ -46,4 +46,3 @@ Learning : Computer Vision, Machine Learning, Human-Computer Interaction
     <a href="https://github.com/xiaowuc2#----cv-----------projects----------email">Projects</a>
      · 
     <a href = "mailto: rohitmandal814566@gmail.com">Email</a>
-</p>
