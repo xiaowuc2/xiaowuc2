@@ -47,3 +47,6 @@ Learning : Computer Vision, Machine Learning, Human-Computer Interaction
      · 
     <a href = "mailto: rohitmandal814566@gmail.com">Email</a>
 </p>
+<p align="center">
+ <td><img src="https://profile-counter.glitch.me/xiaowuc2/count.svg" alt="Visitors" height="20" /></td>
+</p>
