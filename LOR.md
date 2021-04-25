@@ -14,5 +14,5 @@
 
 <br>
 
-1. [Dr. SANKHADIP ROY](https://scholar.google.com/citations?user=GWDwb10AAAAJ&hl=en): Professor at UEMK, Mathematics Department 
+1. [Dr. Sankhadip Roy](https://scholar.google.com/citations?user=GWDwb10AAAAJ&hl=en): Professor at UEMK, Mathematics Department 
 2. [Dr. Shreemoyee Ganguly](https://scholar.google.co.in/citations?user=ayOHO2AAAAAJ&hl=en): Professor at UEMK, Physics Department
