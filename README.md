@@ -34,7 +34,7 @@ Learning : Computer Vision, Machine Learning, Human-Computer Interaction
 ### My Events @qxresearch 
 
 - **Event 1 :** [10 Python Application | 10 Lines of Code](https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM) | [Repository](https://github.com/qxresearch/qxresearch-event-1)
-- **Event 2 :** [Code in Place 2021 Assignment Solution](https://youtu.be/5JpVuQNYoho) | [Repository](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution)
+- **Event 2 :** [Code in Place 2021 Assignment Solution](https://youtu.be/5JpVuQNYoho) | [Repository](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution) <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/dostupnost.gif" alt="Logo" width="8" height="8">
 
 <!--### Past Events-->
  
