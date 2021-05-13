@@ -1,7 +1,7 @@
  <br />
 <p align="center">
   <a href="https://qxresearch.github.io/qxresearch">
-    <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/ranger-1/My%20Post.png" alt="Logo">
+    <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/ranger-1/My%20Post%20(1).png" alt="Logo">
   </a>
 
   <h3 align="center">Math | Computer Vision | ML</h3>
