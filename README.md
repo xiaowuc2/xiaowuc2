@@ -25,7 +25,7 @@ I am currently in my second year pursuing Bachelors of Technology in Computer Sc
 Physics and Mathematical Projects using Python(NumPy | Matplotlib | SciPy | scikit-learn | Pandas). Leading Mozilla Campus 
 Club @qxresearch
 
-I'm a Creative Artist (Acrylic | Computer Vision)🎨 
+I'm a Creative Artist (Acrylic | Computer Vision)
 
 Learning : Computer Vision, Machine Learning, Human-Computer Interaction
 
