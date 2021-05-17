@@ -42,7 +42,7 @@ Learning : Computer Vision, Machine Learning, Human-Computer Interaction
 
 - **Physics Repo :** [Simple Harmonic Motion, Data Visulization](https://github.com/qxresearch/Simple-Harmonic-Motion) @qxresearch
 - **Mathematics :** [Beizer Desmos Graphing](https://github.com/xiaowuc2/BezierDesmosGraphing)
-- **Datastructure & Algorithm :** [DSA @Python|C](https://github.com/UEMK-CS-2019/DSA) @UEMK CS-2019
+- **Datastructure & Algorithm :** [DSA @Python|C](https://github.com/UEMK-CS-2019/DSA) @uemk-cs-2019
 
 
  <h4 align="center">
