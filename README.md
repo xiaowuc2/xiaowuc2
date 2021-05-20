@@ -1,7 +1,7 @@
  <br />
 <p align="center">
   <a href="https://qxresearch.github.io/qxresearch">
-    <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/readme%20source/math%20is%20gold.gif" alt="Logo" width="270" height="270">
+    <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/readme%20source/math%20is%20gold.gif" alt="Logo" width="300" height="300">
   </a>
 
   <h3 align="center">Math | Computer Vision | ML</h3>
