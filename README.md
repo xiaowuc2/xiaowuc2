@@ -1,7 +1,7 @@
  <br />
 <p align="center">
   <a href="https://qxresearch.github.io/qxresearch">
-    <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/portfolio/math2.png" alt="Logo" width="200" height="200">
+    <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/readme%20source/math%20is%20gold.gif" alt="Logo" width="270" height="270">
   </a>
 
   <h3 align="center">Math | Computer Vision | ML</h3>
@@ -10,7 +10,7 @@
   </p>
 </p>
 
-
+<!--- https://github.com/xiaowuc2/xiaowuc2/blob/master/source/portfolio/math2.png-->
 [![GitHub](https://img.shields.io/static/v1.svg?label=Collaborators&message=150&color=success&logo=github&style=social)](https://github.com/orgs/qxresearch/people)
 [![YouTube](https://img.shields.io/static/v1.svg?label=YouTube&message=@qxresearch&color=grey&logo=youtube&style=flat&logoColor=white&colorA=critical)](https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA)
   [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=xiaowuc2&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/xiaowuc2)
