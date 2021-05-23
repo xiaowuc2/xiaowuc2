@@ -1,6 +1,6 @@
  <br />
 <p align="center">
-  <a href="https://qxresearch.github.io/qxresearch">
+  <a href="https://github.com/qxresearch-x"
      <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxx/alien-x-small-unscreen.gif" alt="Logo" width="200" height="200">
   </a>
 
