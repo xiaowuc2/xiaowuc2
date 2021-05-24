@@ -1,6 +1,6 @@
 <p align="center">
   <a href="www.github.com/qxresearch-x">
-    <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxx/alien-x-small-unscreen.gif" alt="Logo" width="250" height="250">
+    <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxx/alien-x-small-unscreen.gif" alt="Logo" width="200" height="200">
   </a>
   <h3 align="center">Math | Computer Vision | ML</h3>
 </p>
