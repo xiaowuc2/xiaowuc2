@@ -38,6 +38,7 @@ Learning : Computer Vision, Machine Learning, Human-Computer Interaction
 - **Physics :** [Simple Harmonic Motion, Data Visulization](https://github.com/qxresearch/Simple-Harmonic-Motion) @qxresearch
 - **Mathematics :** [Beizer Desmos Graphing](https://github.com/xiaowuc2/BezierDesmosGraphing)
 - **Datastructure & Algorithm :** [DSA @Python|C](https://github.com/UEMK-CS-2019/DSA) @uemk-cs-2019
+-  **Matlab** : [Matlab for Machine Learning](https://github.com/qxresearchx/matlab-for-machine-leaning) @qxresearchx
 
 
 
