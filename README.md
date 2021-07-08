@@ -14,13 +14,11 @@
 
 
 
-I am currently in my second year pursuing Bachelors of Technology in Computer Science @UEM Kolkata. I'm working on Higher
-Physics and Mathematical Projects using Python(NumPy | Matplotlib | SciPy | scikit-learn | Pandas). Leading Mozilla Campus 
-Club @qxresearch
+I am currently in my third year pursuing Bachelors of Technology in Computer Science @UEMKolkata. I found Machine Learning and Computer Vision really intriguing because it gives computer brain and eye(sort of). Now, I'm in a internship as Machine Learning researcher @NLP AI Automation. 
 
-I'm a Creative Artist (Acrylic | Computer Vision)
+I'm the founder of a ML project based organization qxresearch, where we're working on new problem statements and help other developer to get started in this domain.
 
-Learning : Computer Vision, Machine Learning, Human-Computer Interaction
+Learning : `Computer Vision`  `Machine Learning` `Human Computer Interaction` `Deep Learning`
 
 
 ### My Events @qxresearch 
