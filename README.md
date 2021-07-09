@@ -14,7 +14,7 @@
 
 
 
-I am currently in my third year pursuing Bachelors of Technology in Computer Science @UEMKolkata. I found Machine Learning and Computer Vision really intriguing because it gives computer ability to think and vision (sort of). Now, I'm working in @NLP AI Automation as Machine Learning Researcher (Intern) with a team consist of IIT alumni.
+I am currently in my third year pursuing Bachelors of Technology in Computer Science @UEMKolkata. I found Machine Learning and Computer Vision really intriguing because it gives computer ability to think and see (sort of). Now, I'm working in @NLP AI Automation as Machine Learning Researcher (Intern) with a team consist of IIT alumni.
 
 I'm the founder of a ML project based organization qxresearch, where we're working on new problem statements and help other developer to get started in this domain.
 
