@@ -16,6 +16,8 @@
 
 I am currently in my third year pursuing Bachelors of Technology in Computer Science @UEMKolkata. I found Machine Learning and Computer Vision really intriguing because it gives computer ability to think and see (sort of). Now, I'm working in @NLP AI Automation as Machine Learning Researcher (Intern) with a team consist of IIT alumni.
 
+I've joined @omdena as Junior ML Engineer. Here I'll be wroking on `Helping the Energy Industry Achieve Digital Transformation Through AI` project with 50 collaborators to help to automatize site schemas in the energy industry building through Computer Vision. Project : [Energy Transformation](https://omdena.com/projects/energy-transformation/)
+
 I'm the founder of a ML project based organization qxresearch, where we're working on new problem statements and help other developer to get started in this domain.
 
 Learning : `Computer Vision`  `Machine Learning` `Human Computer Interaction` `Deep Learning`
