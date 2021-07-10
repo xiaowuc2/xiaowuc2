@@ -18,7 +18,7 @@ I am currently in my third year pursuing Bachelors of Technology in Computer Sci
 
 Tech Used : `Computer Vison` `MediPipe` `Python`
 
-I've joined @omdena as Junior ML Engineer. Here I'll be working on `Helping the Energy Industry Achieve Digital Transformation Through AI` project with 50 collaborators to help to automatize site schemas in the energy industry building through Computer Vision. Project : [Energy Transformation](https://omdena.com/projects/energy-transformation/)
+I've joined @omdena `New York` as Junior ML Engineer. Here I'll be working on `Helping the Energy Industry Achieve Digital Transformation Through AI` project with 50 collaborators to help to automatize site schemas in the energy industry building through Computer Vision. Project : [Energy Transformation](https://omdena.com/projects/energy-transformation/)
 
 Tech Used : `Computer Vision`, `Data Preparation`, `Object Detection`
 
