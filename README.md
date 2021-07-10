@@ -2,7 +2,7 @@
   <a href="https://github.com/qxresearchx">
     <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxx/alien-x-small-unscreen.gif" alt="Logo" width="200" height="200">
   </a>
-  <h3 align="center">Math | Computer Vision | ML | Space Exploration</h3>
+  <h3 align="center">Math | Computer Vision | Machine Learning</h3>
 </p>
 
 <!--- https://github.com/xiaowuc2/xiaowuc2/blob/master/source/portfolio/math2.png-->
