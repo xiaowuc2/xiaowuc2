@@ -11,26 +11,25 @@
   [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=xiaowuc2&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/xiaowuc2)
     [![Quora](https://img.shields.io/static/v1.svg?label=Quora&message=87.2k+views&color=white&logo=quora&style=social)](https://www.quora.com/profile/Rohit-Prasan-Mandal)
 
-I am currently in my third year pursuing Bachelors of Technology in Computer Science @UEMKolkata. I found Machine Learning and Computer Vision really intriguing because it gives computer ability to think and see (sort of). Now, I'm working in @NLP AI Automation as Machine Learning Researcher (Intern) with a team consist of IIT alumni.
-
-Tech Used : `Computer Vison` `MediPipe` `Python`
-
+<p align="center">
+  <samp>
+I am currently in my third year pursuing Bachelors of Technology in Computer Science @UEMKolkata. I found Machine Learning and Computer Vision really intriguing because it gives computer ability to think and see. So my endeavour is to go forward with it. I've experience in both industry research and academic research in the field of appliced Machine Learning. 
+  </samp><br><br>
+  
 I've joined @omdena `New York` as Junior ML Engineer. Here I'll be working on `Helping the Energy Industry Achieve Digital Transformation Through AI` project with 50 collaborators to help to automatize site schemas in the energy industry building through Computer Vision. Project : [Energy Transformation](https://omdena.com/projects/energy-transformation/)
-
-Tech Used : `Computer Vision`, `Data Preparation`, `Object Detection`
+  
+I'm working in @NLP AI Automation as Machine Learning Researcher (Intern) with a team consist of IIT alumni. Where're I'm working on iris detection.
 
 I'm the founder of a ML project based organization qxresearch, where we're working on new problem statements and help other developer to get started in this domain.
 
-Tech Used : `Python` `C++` `Deep Learning` `Research Presentation`
-
-### My Events @qxresearch 
+### Talks 
 
 - **Event 1 :** [10 Python Application | 10 Lines of Code](https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM) | [Repository](https://github.com/qxresearch/qxresearch-event-1)
 - **Event 2 :** [Code in Place 2021 Assignment Solution](https://www.youtube.com/watch?v=5JpVuQNYoho&list=PLK_zxbpEUfmWO7zL7661s8ck4Ly2m0m-m) | [Repository](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution) 
 <!--### Past Events-->
 <!--- ``No Results``-->
 
-### My projects private & @qxresearch 
+### Research Projects
 
 - **Physics :** [Simple Harmonic Motion, Data Visulization](https://github.com/qxresearch/Simple-Harmonic-Motion) @qxresearch
 - **Mathematics :** [Beizer Desmos Graphing](https://github.com/xiaowuc2/BezierDesmosGraphing)
