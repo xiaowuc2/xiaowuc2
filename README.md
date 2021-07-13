@@ -10,9 +10,6 @@
 [![YouTube](https://img.shields.io/static/v1.svg?label=YouTube&message=@qxresearch&color=grey&logo=youtube&style=flat&logoColor=white&colorA=critical)](https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA)
   [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=xiaowuc2&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/xiaowuc2)
     [![Quora](https://img.shields.io/static/v1.svg?label=Quora&message=87.2k+views&color=white&logo=quora&style=social)](https://www.quora.com/profile/Rohit-Prasan-Mandal)
-    [![LOR](https://img.shields.io/badge/Letter%20of%20Recommendation%20-2-blueviolet)](https://github.com/xiaowuc2/xiaowuc2/blob/master/LOR.md)
-
-
 
 I am currently in my third year pursuing Bachelors of Technology in Computer Science @UEMKolkata. I found Machine Learning and Computer Vision really intriguing because it gives computer ability to think and see (sort of). Now, I'm working in @NLP AI Automation as Machine Learning Researcher (Intern) with a team consist of IIT alumni.
 
