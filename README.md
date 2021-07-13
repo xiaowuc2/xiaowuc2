@@ -43,8 +43,6 @@ Tech Used : `Python` `C++` `Deep Learning` `Research Presentation`
     <a href="https://drive.google.com/file/d/1ALxiEOuDepm2v53wvKULA_ScwWMVfX85/view?usp=sharing">Resume</a>
      ·  
     <a href="https://github.com/xiaowuc2#----cv-----------projects----------email">Projects</a>
-     · 
-    <a href = "mailto: rohitmandal814566@gmail.com">Email</a>
 </p>
 <p align="center">
  <td><img src="https://profile-counter.glitch.me/xiaowuc2/count.svg" alt="Visitors" height="20" /></td>
