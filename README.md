@@ -40,7 +40,7 @@ Tech Used : `Python` `C++` `Deep Learning` `Research Presentation`
 
 
  <h4 align="center">
-    <a href="https://drive.google.com/file/d/1UFIefAEgrSSoPadk2WpyQdhKdrIgZ6Kz/view?usp=sharing">CV</a>
+    <a href="https://drive.google.com/file/d/1ALxiEOuDepm2v53wvKULA_ScwWMVfX85/view?usp=sharing">Resume</a>
      ·  
     <a href="https://github.com/xiaowuc2#----cv-----------projects----------email">Projects</a>
      · 
