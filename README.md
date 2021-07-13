@@ -5,10 +5,6 @@
   <h3 align="center">Machine Learning | Computer Vision</h3>
 </p>
 
-<!--- https://github.com/xiaowuc2/xiaowuc2/blob/master/source/portfolio/math2.png-->
-[![YouTube](https://img.shields.io/static/v1.svg?label=YouTube&message=@qxresearch&color=grey&logo=youtube&style=flat&logoColor=white&colorA=critical)](https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA)
-    [![Quora](https://img.shields.io/static/v1.svg?label=Quora&message=87.2k+views&color=white&logo=quora&style=social)](https://www.quora.com/profile/Rohit-Prasan-Mandal)
-
 <p align="center">
   <samp>
 I am currently in my third year pursuing Bachelors of Technology in Computer Science @UEMKolkata. I found Machine Learning and Computer Vision really intriguing because it gives computer ability to think and see. So my endeavour is to go forward with it. I've experience in both industry research and academic research in the field of Applied Machine Learning and Computer Vision. 
