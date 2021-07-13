@@ -2,7 +2,7 @@
   <a href="https://github.com/qxresearchx">
     <img src="https://raw.githubusercontent.com/xiaowuc2/xiaowuc2.github.io/main/images/lgo.png" alt="Logo" width="230" height="230">
   </a>
-  <h3 align="center">Math | Computer Vision | Machine Learning</h3>
+  <h3 align="center">Machine Learning | Computer Vision</h3>
 </p>
 
 <!--- https://github.com/xiaowuc2/xiaowuc2/blob/master/source/portfolio/math2.png-->
