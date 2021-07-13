@@ -14,7 +14,7 @@ I've joined @omdena `New York` as Junior ML Engineer. Here I'll be working on `H
   
 I'm working in @NLP AI Automation as Machine Learning Researcher (Intern) with a team consist of IIT alumni. Where're I'm working on iris detection.
 
-I'm the founder of a ML project based organization qxresearch, where we're working on new problem statements and help other developer to get started in this domain.
+I'm the founder of a ML project based organization [@qxresearch](https://qxresearch.github.io), where we're working on research projects on Deep Learning with 150+ GitHub developers from all over the world.
 
 ### Talks 
 
