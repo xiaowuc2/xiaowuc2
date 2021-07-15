@@ -7,7 +7,7 @@
 
 <p align="center">
   <samp>
-I am currently in my third year pursuing Bachelors of Technology in Computer Science @UEMKolkata. I found Machine Learning and Computer Vision really intriguing because it gives computer ability to think and see. So my endeavour is to go forward with it. I've experience in both industry research and academic research in the field of Applied Machine Learning and Computer Vision. 
+I am currently in my third year pursuing Bachelors of Technology in Computer Science @UEMKolkata. I found Machine Learning and Computer Vision really intriguing because it gives computers the ability to think and see. So my endeavor is to go forward with it. I've experience in both industry research and academic research in the field of Applied Machine Learning and Computer Vision. 
   </samp><br><br>
   
 I've joined @omdena `New York` as Junior ML Engineer. Here I'll be working on `Helping the Energy Industry Achieve Digital Transformation Through AI` project with 50 collaborators to help to automatize site schemas in the energy industry building through Computer Vision.
