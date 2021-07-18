@@ -13,7 +13,7 @@ I am currently in my third year pursuing Bachelors of Technology in Computer Sci
 ### Experience 
   
  #### Industrial Research
-- I've joined @omdena `New York` as Junior ML Engineer. Here I'll be working on `Helping the Energy Industry Achieve Digital Transformation Through AI` project with 50 collaborators to help to automatize site schemas in the energy industry building through Computer Vision.
+- I've joined [@omdena](https://omdena.com) `New York` as Junior ML Engineer. Here I'll be working on `Helping the Energy Industry Achieve Digital Transformation Through AI` project with 50 collaborators to help to automatize site schemas in the energy industry building through Computer Vision.
   
 - I'm working in @NLP AI Automation as Machine Learning Researcher (Intern) with a team consist of IIT alumni. Where're I'm working on iris detection.
 
