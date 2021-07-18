@@ -12,16 +12,16 @@ I am currently in my third year pursuing Bachelors of Technology in Computer Sci
   
 ### Experience 
   
-  #### Industrial Research
-I've joined @omdena `New York` as Junior ML Engineer. Here I'll be working on `Helping the Energy Industry Achieve Digital Transformation Through AI` project with 50 collaborators to help to automatize site schemas in the energy industry building through Computer Vision.
+ #### Industrial Research
+- I've joined @omdena `New York` as Junior ML Engineer. Here I'll be working on `Helping the Energy Industry Achieve Digital Transformation Through AI` project with 50 collaborators to help to automatize site schemas in the energy industry building through Computer Vision.
   
-I'm working in @NLP AI Automation as Machine Learning Researcher (Intern) with a team consist of IIT alumni. Where're I'm working on iris detection.
+- I'm working in @NLP AI Automation as Machine Learning Researcher (Intern) with a team consist of IIT alumni. Where're I'm working on iris detection.
 
-I'm the founder of a ML project based organization [@qxresearch](https://qxresearch.github.io), where we're working on research projects on Deep Learning with 150+ GitHub developers from all over the world.
+- I'm the founder of a ML project based organization [@qxresearch](https://qxresearch.github.io), where we're working on research projects on Deep Learning with 150+ GitHub developers from all over the world.
   
-  #### Academic Research
+ #### Academic Research
   
-  Research Assistant at University of Engineering and Management, Kolkata. Working on Deep Learning based projects under supervision of `Professor Sankhadeep Chaterjee`.
+ - Research Assistant at University of Engineering and Management, Kolkata. Working on Deep Learning based projects under supervision of `Professor Sankhadeep Chaterjee`.
 
 ### Talks 
 
