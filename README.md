@@ -21,7 +21,7 @@ I'm the founder of a ML project based organization [@qxresearch](https://qxresea
   
   #### Academic Research
   
-  Research Assistant at University of Engineering and Management, Kolkata. Working on Deep Learning based projects under supervision of Professor Sankhadeep Chaterjee.
+  Research Assistant at University of Engineering and Management, Kolkata. Working on Deep Learning based projects under supervision of `Professor Sankhadeep Chaterjee`.
 
 ### Talks 
 
