@@ -16,7 +16,7 @@ I am currently in my third year pursuing Bachelors of Technology in Computer Sci
 * #### Industrial Research
   * I've joined [@omdena](https://omdena.com) `New York` as Junior ML Engineer. Here I'll be working on `Helping the Energy Industry Achieve Digital Transformation Through AI` project with 50 collaborators to help to automatize site schemas in the energy industry building through Computer Vision.
   
-  * I'm working in a startup [@NLP AI Automation Private Ltd.](https://www.nlpaia.com/) as Machine Learning Researcher (Intern) with a team consist of IIT alumni. Where're I'm working on iris detection.
+  * I'm working in a startup [@NLP AI Automation Private Ltd.](https://www.nlpaia.com/) as Machine Learning Researcher (Intern) with a team comprises IIT and IIM alumni, with experience of over 20 years. Where're I'm working on iris detection and Deep Learning project.
 
   * I'm the founder of a ML project based organization [@qxresearch](https://qxresearch.github.io), where we're working on research projects on Deep Learning with 150+ GitHub developers from all over the world.
   
