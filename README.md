@@ -36,14 +36,13 @@
     * [@deeplearning.ai](https://www.deeplearning.ai/) Machine Leraning Pie & AI event ambassador 
     * [@GitHub](https://github.com) CX research program member
     * [@mozilla](https://community.mozilla.org/en/groups/qx-research) Global AI ambassador : collaborating with 150+ GitHub developers
-<br>
+
   
 ### Skills 
   - Programming Languages : `Python` `c/c++` `MATLAB`
   - Machine Learning : `Keras` `TensorFlow` `Python modules`
   - Computer Vision : `OpenCV` `dlib` `MediaPipe` 
-  
-<br>
+
 
 ### Projects
   - #### Open-Source Projects
@@ -53,8 +52,6 @@
     - [DSA @Python|C](https://github.com/UEMK-CS-2019/DSA) is Data Structure course consist of different algorithms in C and Python @uemk-cs-2019
     - [Simple Harmonic Motion, Data Visulization](https://github.com/qxresearch/Simple-Harmonic-Motion) is physics data visualization project using matplotlib @qxresearch
     - [Beizer Desmos Graphing](https://github.com/xiaowuc2/BezierDesmosGraphing) is mathematics data visualization project of static picture in desmos graphical calculator
-
-
   
   - #### Research Projects 
     - [Emotion Detection](https://github.com/xiaowuc2/Emotion-Checking-ML-Computer-Vision) is made with keras which could predic users emotion based on the content user is watching
