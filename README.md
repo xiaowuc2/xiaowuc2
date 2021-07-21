@@ -67,10 +67,6 @@
 
  <h4 align="center">
     <a href="https://drive.google.com/file/d/1ALxiEOuDepm2v53wvKULA_ScwWMVfX85/view?usp=sharing">Resume</a>
-     ·  
-    <a href="https://linkedin.com/in/xiaowuc2">LinkedIn</a>
-     .
-    <a href="https://github.com/xiaowuc2#----cv-----------projects----------email">Projects</a>
 </p>
 <p align="center">
  <td><img src="https://profile-counter.glitch.me/xiaowuc2/count.svg" alt="Visitors" height="19" /></td>
