@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/qxresearchx">
-    <img src="https://raw.githubusercontent.com/xiaowuc2/xiaowuc2.github.io/main/images/lgo.png" alt="Logo" width="230" height="230">
+    <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/lgo.png" alt="Logo" width="230" height="230">
   </a>
   <h3 align="center">Machine Learning | Computer Vision</h3>
 </p>
