@@ -37,11 +37,13 @@
     * [@GitHub](https://github.com) CX research program member
     * [@mozilla](https://community.mozilla.org/en/groups/qx-research) Global AI ambassador : collaborating with 150+ GitHub developers
 
-  
+
+
 ### Skills 
   - Programming Languages : `Python` `c/c++` `MATLAB`
   - Machine Learning : `Keras` `TensorFlow` `Python modules`
   - Computer Vision : `OpenCV` `dlib` `MediaPipe` 
+
 
 
 ### Projects
@@ -57,14 +59,13 @@
     - [Emotion Detection](https://github.com/xiaowuc2/Emotion-Checking-ML-Computer-Vision) is made with keras which could predic users emotion based on the content user is watching
     - [Sleep Detection]() using dlib, basically uses iris and yawn detection with the time internval it detects users tiredness.
   
-<br>
-  
+
   
 ### Publication
   
   - [Can computers think? Imitation of human intelligence (2020)](https://www.researchgate.net/publication/340645375_TITLE_CAN_COMPUTER_THINK_IMITATION_of_HUMAN_INTELLIGENCE)
   
-<br>
+
   
 ### Talks 
 
