@@ -58,6 +58,7 @@
   
   - #### Research Projects 
     - [Emotion Detection](https://github.com/xiaowuc2/Emotion-Checking-ML-Computer-Vision) is made with keras which could predic users emotion based on the content user is watching
+    - [Sleep Detection]() using dlib, basically uses iris and yawn detection with the time internval it detects users tiredness.
   
 <br>
   
