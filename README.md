@@ -9,7 +9,7 @@
 
 I am currently in my third year pursuing Bachelors of Technology in Computer Science CGPA 9.43. I found Machine Learning and Computer Vision really intriguing because it gives computers the ability to think and see. So my endeavor is to go forward with it. I've experience in both industry research and academic research in the field of Applied Machine Learning and Computer Vision. 
   
-<br><br>
+<br>
   
 ### Experience 
   
