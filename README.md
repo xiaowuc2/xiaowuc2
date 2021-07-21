@@ -23,12 +23,7 @@ I am currently in my third year pursuing Bachelors of Technology in Computer Sci
   
     * Research Assistant at University of Engineering and Management, Kolkata. Working on Deep Learning based projects under supervision of `Professor Sankhadeep Chaterjee`.
 
-### Talks 
-
-- **Event 1 :** [10 Python Application | 10 Lines of Code](https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM) | [Repository](https://github.com/qxresearch/qxresearch-event-1)
-- **Event 2 :** [Code in Place 2021 Assignment Solution](https://www.youtube.com/watch?v=5JpVuQNYoho&list=PLK_zxbpEUfmWO7zL7661s8ck4Ly2m0m-m) | [Repository](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution) 
-<!--### Past Events-->
-<!--- ``No Results``-->
+<br>
 
 ### Projects
   - #### Open-Source Projects
@@ -40,6 +35,13 @@ I am currently in my third year pursuing Bachelors of Technology in Computer Sci
   
   - #### Research Projects 
   
+<br>
+  
+### Talks 
+
+- **Event 1 :** [10 Python Application | 10 Lines of Code](https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM) | [Repository](https://github.com/qxresearch/qxresearch-event-1)
+- **Event 2 :** [Code in Place 2021 Assignment Solution](https://www.youtube.com/watch?v=5JpVuQNYoho&list=PLK_zxbpEUfmWO7zL7661s8ck4Ly2m0m-m) | [Repository](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution) 
+
 
 
 
