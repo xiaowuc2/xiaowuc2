@@ -38,14 +38,6 @@
     * [@mozilla](https://community.mozilla.org/en/groups/qx-research) Global AI ambassador : collaborating with 150+ GitHub developers
 
 
-
-### Skills 
-  - Programming Languages : `Python` `c/c++` `MATLAB`
-  - Machine Learning : `Keras` `TensorFlow` `Python modules`
-  - Computer Vision : `OpenCV` `dlib` `MediaPipe` 
-
-
-
 ### Projects
   - #### Open-Source Projects
   
