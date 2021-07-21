@@ -45,6 +45,11 @@ I am currently in my third year pursuing Bachelors of Technology in Computer Sci
   
 <br>
   
+  
+### Publication
+  
+  - Can Computers Think? IMITATION of HUMAN INTELLIGENCE [ResearchGate](https://www.researchgate.net/publication/340645375_TITLE_CAN_COMPUTER_THINK_IMITATION_of_HUMAN_INTELLIGENCE)
+  
 ### Talks 
 
 - **Event 1 :** [10 Python Application | 10 Lines of Code](https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM) | [Repository](https://github.com/qxresearch/qxresearch-event-1)
