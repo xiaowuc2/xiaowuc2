@@ -33,9 +33,9 @@
   
     * Research Assistant at University of Engineering and Management, Kolkata. Working on Deep Learning based projects under supervision of `Professor Sankhadeep Chaterjee`.
 * #### Volunteering 
-    * Machine Leraning Pie & AI event ambassador of [@deeplearning.ai](https://www.deeplearning.ai/)
-    * CX Research Program member [@GitHub](https://github.com)
-    * Global AI ambassador [@mozilla](https://community.mozilla.org/en/groups/qx-research) : collaborating with 150+ GitHub developers
+    * [@deeplearning.ai](https://www.deeplearning.ai/) Machine Leraning Pie & AI event ambassador 
+    * [@GitHub](https://github.com) CX research program member
+    * [@mozilla](https://community.mozilla.org/en/groups/qx-research) Global AI ambassador : collaborating with 150+ GitHub developers
 <br>
   
 ### Skills 
@@ -48,10 +48,10 @@
 ### Projects
   - #### Open-Source Projects
   
-    - **Physics :** [Simple Harmonic Motion, Data Visulization](https://github.com/qxresearch/Simple-Harmonic-Motion) @qxresearch
-    - **Mathematics :** [Beizer Desmos Graphing](https://github.com/xiaowuc2/BezierDesmosGraphing)
-    - **Datastructure & Algorithm :** [DSA @Python|C](https://github.com/UEMK-CS-2019/DSA) @uemk-cs-2019
-    -  **Matlab** : [Matlab for Machine Learning](https://github.com/qxresearchx/matlab-for-machine-leaning) @qxresearch
+    - [Simple Harmonic Motion, Data Visulization](https://github.com/qxresearch/Simple-Harmonic-Motion) is physics data visualization project using matplotlib @qxresearch
+    - [Beizer Desmos Graphing](https://github.com/xiaowuc2/BezierDesmosGraphing) is mathematics data visualization project of static picture in desmos graphical calculator
+    - [DSA @Python|C](https://github.com/UEMK-CS-2019/DSA) is Data Structure course consist of different algorithms in C and Python @uemk-cs-2019
+    - [Matlab for Machine Learning](https://github.com/qxresearchx/matlab-for-machine-leaning) is instroduction to MATLAB for machine learning  and application @qxresearch
   
   - #### Research Projects 
   
