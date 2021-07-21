@@ -2,12 +2,21 @@
   <a href="https://github.com/qxresearchx">
     <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/lgo.png" alt="Logo" width="230" height="230">
   </a>
-  <h3 align="center">Machine Learning | Computer Vision</h3>
+  <h3 align="center">Machine Learning ​​🗼​ Computer Vision</h3>
 </p>
 
 <p align="center">
+  
+  
+  <p><pre align="center">
+<strong>Rohit P. Mandal /</strong> <a href="https://www.labri.fr/perso/nrougier">Homepage</a> / <a href="https://twitter.com/NPRougier">Twitter</a> / <a href="https://linkedin.com/in/xiaowuc2">LinkedIn</a> / <a href="https://github.com/rougier">GitHub</a> / <a href="https://gist.github.com/rougier">Gist</a> / <a href="https://stackoverflow.com/users/3348261/nicolas-rougier">Stackoveflow</a> / <a href="https://www.quora.com/profile/Rohit-Prasan-Mandal">Quora</a> / <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">YouTube</a></pre></p>
 
-I am currently in my third year pursuing Bachelors of Technology in Computer Science CGPA 9.43. I found Machine Learning and Computer Vision really intriguing because it gives computers the ability to think and see. So my endeavor is to go forward with it. I've experience in both industry research and academic research in the field of Applied Machine Learning and Computer Vision. 
+> I’m an undergraduate machine learning researcher, currently working on research 
+> projects pertaining to Computer Vision and Deep Learning.  I've experience in both industrial research and academic research in 
+> the field of Machine Learning and Computer Vision.
+> I will be applying for a masters/PhD in Computer Vision/Theoretical AI.
+
+<p align="center">I like to train Machine Learning models for Humans !</p>
   
 <br>
   
@@ -51,7 +60,7 @@ I am currently in my third year pursuing Bachelors of Technology in Computer Sci
   
 ### Publication
   
-  - Can Computers Think? IMITATION of HUMAN INTELLIGENCE [ResearchGate](https://www.researchgate.net/publication/340645375_TITLE_CAN_COMPUTER_THINK_IMITATION_of_HUMAN_INTELLIGENCE)
+  - [Can computers think? Imitation of human intelligence (2020)](https://www.researchgate.net/publication/340645375_TITLE_CAN_COMPUTER_THINK_IMITATION_of_HUMAN_INTELLIGENCE)
   
 <br>
   
