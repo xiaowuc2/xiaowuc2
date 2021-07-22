@@ -49,10 +49,11 @@
     - **[DSA @Python|C](https://github.com/UEMK-CS-2019/DSA)** A Data Structure course consist of different algorithms in C and Python @uemk-cs-2019
     - **[Simple Harmonic Motion, Data Visulization](https://github.com/qxresearch/Simple-Harmonic-Motion)** is physics data visualization project using matplotlib @qxresearch
     - **[Beizer Desmos Graphing](https://github.com/xiaowuc2/BezierDesmosGraphing)** mathematics data visualization project of static picture in desmos graphical calculator
+    - **[WhatsApp Automation](https://github.com/xiaowuc2/WhatsApp-Automation)** is texting automation project using Twillow to text someone at custom time
   
   - #### Research Projects 
     - **[Emotion Detection](https://github.com/xiaowuc2/Emotion-Checking-ML-Computer-Vision)** is made with keras which could predic users emotion based on the content user is watching
-    - **[Sleep Detection]()** Basically the code uses iris and yawn detection with the time internval it detects users tiredness using dlib
+    - **[Sleepiness Detection]()** Basically a python script, uses iris and yawn detection using dlib to detect sleepiness
   - #### Python Packages
     - 
 
