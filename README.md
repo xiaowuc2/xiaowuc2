@@ -9,7 +9,7 @@
   
   
   <p><pre align="center">
-<strong>Rohit P. Mandal /</strong> <a href="https://xiaowuc2.vercel.app">Homepage</a> / <a href="https://twitter.com/NPRougier">Twitter</a> / <a href="https://linkedin.com/in/xiaowuc2">LinkedIn</a> / <a href="https://github.com/rougier">GitHub</a> / <a href="https://gist.github.com/rougier">Gist</a> / <a href="https://stackoverflow.com/users/3348261/nicolas-rougier">Stackoveflow</a> / <a href="https://www.quora.com/profile/Rohit-Prasan-Mandal">Quora</a> / <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">YouTube</a></pre></p>
+<strong>Rohit P. Mandal /</strong> <a href="https://xiaowuc2.vercel.app">​Homepage​</a> / <a href="https://twitter.com/NPRougier">Twitter</a> / <a href="https://linkedin.com/in/xiaowuc2">​LinkedIn​</a> / <a href="https://github.com/rougier">​GitHub​</a> / <a href="https://gist.github.com/rougier">Gist</a> / <a href="https://stackoverflow.com/users/3348261/nicolas-rougier">​Stackoveflow​</a> / <a href="https://www.quora.com/profile/Rohit-Prasan-Mandal">Quora</a> / <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​YouTube​</a></pre></p>
 
 > I’m an undergraduate machine learning researcher, currently working on research 
 > projects pertaining to Computer Vision and Deep Learning.  I've experience in both industrial research and academic research in 
@@ -20,7 +20,7 @@
   
 <br>
   
-### Experience 
+### Experience ​
   
 * #### Industrial Research
   * I've joined **[@omdena](https://omdena.com)** `New York` as Junior ML Engineer. Here I'll be working on `Helping the Energy Industry Achieve Digital Transformation Through AI` project with 50 collaborators to help to automatize site schemas in the energy industry building through Computer Vision.
@@ -38,7 +38,7 @@
     * **[@mozilla](https://community.mozilla.org/en/groups/qx-research)** Global AI ambassador : collaborating with 150+ GitHub developers
 
 
-### Projects
+### Projects ​
   - #### Open-Source Projects
   
     - **[Matlab for Machine Learning](https://github.com/qxresearchx/matlab-for-machine-leaning)** is instroduction to MATLAB for machine learning  and application @qxresearch
@@ -54,13 +54,13 @@
     - 
 
   
-### Publication
+### Publication ​
   
   - **[Can computers think? Imitation of human intelligence](https://www.researchgate.net/publication/340645375_TITLE_CAN_COMPUTER_THINK_IMITATION_of_HUMAN_INTELLIGENCE)** (2020)
   
 
   
-### Talks 
+### Talks ​
 
 - **[10 Lines of Code](https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM) : [Repository](https://github.com/qxresearch/qxresearch-event-1)** was part of @qxresearch AI event where I've explained how some of my 10 lines of python codes could automate and can be applied everyday life.
 - **[Code in Place](https://www.youtube.com/watch?v=5JpVuQNYoho&list=PLK_zxbpEUfmWO7zL7661s8ck4Ly2m0m-m) : [Repository](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution)** volunteer-led course called Code in Place, hosted by Stanford University.
