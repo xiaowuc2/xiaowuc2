@@ -16,7 +16,12 @@
 > the field of Machine Learning and Computer Vision.
 > I will be applying for a masters/PhD in Computer Vision/Theoretical AI.
 
-<p align="center">I like to train Machine Learning models for Humans !</p>
+
+```
+                                    I like to train Machine Learning models for Humans !
+```
+
+
   
 <br>
   
