@@ -20,8 +20,6 @@
 ```
                                     I like to train Machine Learning models for Humans !
 ```
-
-
   
 <br>
   
