@@ -65,8 +65,8 @@
   
 ### Talks ​
 
-- **[10 Lines of Code](https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM) : [Repository](https://github.com/qxresearch/qxresearch-event-1)** was part of @qxresearch AI event where I've explained how some of my 10 lines of python codes could automate and can be applied everyday life.
-- **[Code in Place](https://www.youtube.com/watch?v=5JpVuQNYoho&list=PLK_zxbpEUfmWO7zL7661s8ck4Ly2m0m-m) : [Repository](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution)** volunteer-led course called Code in Place, hosted by Stanford University.
+- **[10 Lines of Code](https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM) : [Repository](https://github.com/qxresearch/qxresearch-event-1)** I've explained how 10 lines of python codes could automate and can be applied everyday life
+- **[Code in Place](https://www.youtube.com/watch?v=5JpVuQNYoho&list=PLK_zxbpEUfmWO7zL7661s8ck4Ly2m0m-m) : [Repository](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution)** volunteer-led course called Code in Place, hosted by Stanford University. Explained assignemnt
 
 
  <h4 align="center">
