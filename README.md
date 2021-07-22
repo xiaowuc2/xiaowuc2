@@ -23,7 +23,7 @@
   
 <br>
   
-## Experience ​
+### Experience ​
   
 * #### Industrial Research
   * I've joined **[@omdena](https://omdena.com)** `New York` as Junior ML Engineer. Here I'll be working on `Helping the Energy Industry Achieve Digital Transformation Through AI` project with 50 collaborators to help to automatize site schemas in the energy industry building through Computer Vision.
@@ -41,7 +41,7 @@
     * **[@mozilla](https://community.mozilla.org/en/groups/qx-research)** Global AI ambassador : collaborating with 150+ GitHub developers
 
 
-## Projects ​
+### Projects ​
   - #### Open-Source Projects
   
     - **[Matlab for Machine Learning](https://github.com/qxresearchx/matlab-for-machine-leaning)** is instroduction to MATLAB for machine learning  and application @qxresearch
