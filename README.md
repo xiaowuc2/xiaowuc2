@@ -18,7 +18,7 @@
 
 
 ```
-                                    I like to train Machine Learning models for Humans !
+                                    I like to train Machine Learning models for Humans ✘
 ```
   
 <br>
@@ -71,7 +71,7 @@
 
 
  <h4 align="center">
-    <a href="https://drive.google.com/file/d/1ALxiEOuDepm2v53wvKULA_ScwWMVfX85/view?usp=sharing">Resume</a>
+    <a href="https://drive.google.com/file/d/1ALxiEOuDepm2v53wvKULA_ScwWMVfX85/view?usp=sharing">Resume ✘</a>
 </p>
 <p align="center">
  <td><img src="https://profile-counter.glitch.me/xiaowuc2/count.svg" alt="Visitors" height="19" /></td>
