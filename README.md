@@ -45,7 +45,7 @@
   - #### Open-Source Projects
   
     - **[Matlab for Machine Learning](https://github.com/qxresearchx/matlab-for-machine-leaning)** is instroduction to MATLAB for machine learning  and application @qxresearch
-    - **[10 Lines of Python Code]()** could automate boring stuffs and solve real-life problems under 10 lines of code @qxresearch 
+    - **[10 Lines of Python Code](https://github.com/qxresearch/qxresearch-event-1)** could automate boring stuffs and solve real-life problems under 10 lines of code @qxresearch 
     - **[DSA @Python|C](https://github.com/UEMK-CS-2019/DSA)** A Data Structure course consist of different algorithms in C and Python @uemk-cs-2019
     - **[Simple Harmonic Motion, Data Visulization](https://github.com/qxresearch/Simple-Harmonic-Motion)** is physics data visualization project using matplotlib @qxresearch
     - **[Beizer Desmos Graphing](https://github.com/xiaowuc2/BezierDesmosGraphing)** mathematics data visualization project of static picture in desmos graphical calculator
