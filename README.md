@@ -34,7 +34,7 @@
   
  * #### Academic Research
   
-    * Research Assistant at University of Engineering and Management, Kolkata. Working on Deep Learning based projects under supervision of `Professor Sankhadeep Chaterjee`.
+    * Research Assistant at University of Engineering and Management, Kolkata. Working on Deep Learning based projects under supervision of **[Professor Sankhadeep Chaterjee](https://www.researchgate.net/profile/Sankhadeep-Chatterjee)**.
 * #### Volunteering 
     * **[@deeplearning.ai](https://www.deeplearning.ai/)** Machine Leraning Pie & AI event ambassador 
     * **[@GitHub](https://github.com)** CX research program member
