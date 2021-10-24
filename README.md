@@ -12,8 +12,8 @@
 <br>
 
 ### Projects ​
-   - **[Breast Cancer Prediction: A Machine Learning Approach](https://github.com/xiaowuc2/Breast-Cancer-Prediction-A-Machine-Learning-Approach)** <br> 
-   - **[Simple Harmonic Motion: Data Visulization](https://github.com/qxresearch/Simple-Harmonic-Motion)**<br> 
+   - **[Breast Cancer Prediction: A Machine Learning Approach](https://github.com/xiaowuc2/Breast-Cancer-Prediction-A-Machine-Learning-Approach)** (Python)
+   - **[Simple Harmonic Motion: Data Visulization](https://github.com/qxresearch/Simple-Harmonic-Motion)** (Python)
 
 ### Publication ​
   
