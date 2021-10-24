@@ -12,25 +12,23 @@
 <br>
 
 ### Projects ​
-  - #### Open-Source Projects
-  
-    - **[Matlab for Machine Learning](https://github.com/qxresearchx/matlab-for-machine-leaning)** is instroduction to MATLAB for machine learning  and application @qxresearch
-    - **[10 Lines of Python Code](https://github.com/qxresearch/qxresearch-event-1)** could automate boring stuffs and solve real-life problems under 10 lines of code @qxresearch 
-    - **[DSA @Python|C](https://github.com/UEMK-CS-2019/DSA)** A Data Structure course consist of different algorithms in C and Python @uemk-cs-2019
-    - **[Simple Harmonic Motion, Data Visulization](https://github.com/qxresearch/Simple-Harmonic-Motion)** is physics data visualization project using matplotlib @qxresearch
-    - **[Sleepiness Detection]()** Basically a python script, uses iris and yawn detection using dlib to detect sleepiness
+   - **[Simple Harmonic Motion, Data Visulization](https://github.com/qxresearch/Simple-Harmonic-Motion)** is physics data visualization project using matplotlib @qxresearch
+   - **[Sleepiness Detection]()** Basically a python script, uses iris and yawn detection using dlib to detect sleepiness
   
 ### Publication ​
   
   - **[Variational Autoencoder based Imbalanced Alzheimer detection using Brain MRI Images]()** (2021)
   - **[Can computers think? Imitation of human intelligence](https://www.researchgate.net/publication/340645375_TITLE_CAN_COMPUTER_THINK_IMITATION_of_HUMAN_INTELLIGENCE)** (2020)
   
-
-  
 ### Talks ​
 
 - **[10 Lines of Code](https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM) : [Repository](https://github.com/qxresearch/qxresearch-event-1)** I've explained how 10 lines of python codes could automate and can be applied everyday life
 - **[Code in Place](https://www.youtube.com/watch?v=5JpVuQNYoho&list=PLK_zxbpEUfmWO7zL7661s8ck4Ly2m0m-m) : [Repository](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution)** volunteer-led course called Code in Place, hosted by Stanford University. Explained assignemnt
+
+### Lecture Notes
+
+   - **[Matlab for Machine Learning](https://github.com/qxresearchx/matlab-for-machine-leaning)** is instroduction to MATLAB for machine learning  and application @qxresearch
+   - **[10 Lines of Python Code](https://github.com/qxresearch/qxresearch-event-1)** could automate boring stuffs and solve real-life problems under 10 lines of code @qxresearch 
 
 
  <h4 align="center">
