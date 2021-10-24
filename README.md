@@ -12,9 +12,20 @@
 <br>
 
 ### Projects ​
-   - **[Simple Harmonic Motion: Data Visulization](https://github.com/qxresearch/Simple-Harmonic-Motion)** is physics data visualization project using matplotlib @qxresearch
-   - **[Sleepiness Detection]()** Basically a python script, uses iris and yawn detection using dlib to detect sleepiness
-  
+   - **[Breast Cancer Prediction: A Machine Learning Approach]()** <br>
+```
+This paperproposed now presents a comparison of six machine learning algorithms:XGBoost Classifier, Random Forest, 
+KNN Classifier, Logistic Regression,SVM Classification, Decision Tree on the Wisconsin Diagnostic BreastCancer dataset 
+which is extracted from a digitised image of an MRI. In this work we've achieved 94.96% accuracy using Python.
+```
+   - **[Simple Harmonic Motion: Data Visulization](https://github.com/qxresearch/Simple-Harmonic-Motion)** <br>
+```      
+is physics data visualization project using matplotlib @qxresearch
+```
+   - **[Sleepiness Detection]()** <br>
+```
+Basically a python script, uses iris and yawn detection using dlib to detect sleepiness
+```  
 ### Publication ​
   
   - **[Variational Autoencoder based Imbalanced Alzheimer detection using Brain MRI Images]()** (2021)
