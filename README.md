@@ -12,6 +12,7 @@
 <br>
 
 ### Projects ​
+   - **[cognoPy: Computer Vision App Detects Smile and Reason](https://github.com/cognoPy/cognoPy)** (Python)
    - **[Breast Cancer Prediction: A Machine Learning Approach](https://github.com/xiaowuc2/Breast-Cancer-Prediction-A-Machine-Learning-Approach)** (Python)
    - **[Simple Harmonic Motion: Data Visulization Application](https://github.com/qxresearch/Simple-Harmonic-Motion)** (Python)
 
