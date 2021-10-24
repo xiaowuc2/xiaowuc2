@@ -14,7 +14,7 @@
 ### Projects ​
    - **[Breast Cancer Prediction: A Machine Learning Approach]()** <br>
 ```
-This paperproposed now presents a comparison of six machine learning algorithms:XGBoost Classifier, Random Forest, 
+This proposed paper presents a comparison of six machine learning algorithms:XGBoost Classifier, Random Forest, 
 KNN Classifier, Logistic Regression,SVM Classification, Decision Tree on the Wisconsin Diagnostic BreastCancer dataset 
 which is extracted from a digitised image of an MRI. In this work we've achieved 94.96% accuracy using Python.
 ```
