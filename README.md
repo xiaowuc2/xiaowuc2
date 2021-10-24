@@ -18,9 +18,6 @@
     - **[10 Lines of Python Code](https://github.com/qxresearch/qxresearch-event-1)** could automate boring stuffs and solve real-life problems under 10 lines of code @qxresearch 
     - **[DSA @Python|C](https://github.com/UEMK-CS-2019/DSA)** A Data Structure course consist of different algorithms in C and Python @uemk-cs-2019
     - **[Simple Harmonic Motion, Data Visulization](https://github.com/qxresearch/Simple-Harmonic-Motion)** is physics data visualization project using matplotlib @qxresearch
-  
-  - #### Research Projects 
-    - **[Emotion Detection](https://github.com/xiaowuc2/Emotion-Checking-ML-Computer-Vision)** is made with keras which could predic users emotion based on the content user is watching
     - **[Sleepiness Detection]()** Basically a python script, uses iris and yawn detection using dlib to detect sleepiness
   
 ### Publication ​
