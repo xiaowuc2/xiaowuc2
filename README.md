@@ -12,7 +12,7 @@
 <br>
 
 ### Projects ​
-   - **[Simple Harmonic Motion, Data Visulization](https://github.com/qxresearch/Simple-Harmonic-Motion)** is physics data visualization project using matplotlib @qxresearch
+   - **[Simple Harmonic Motion: Data Visulization](https://github.com/qxresearch/Simple-Harmonic-Motion)** is physics data visualization project using matplotlib @qxresearch
    - **[Sleepiness Detection]()** Basically a python script, uses iris and yawn detection using dlib to detect sleepiness
   
 ### Publication ​
