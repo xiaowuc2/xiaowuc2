@@ -2,7 +2,7 @@
   
   
   <p><pre align="center">
-<strong>Rohit P Mandal /</strong> <a href="https://xiaowuc2.vercel.app">​Homepage​</a> / <a href="https://twitter.com/NPRougier">Twitter</a> / <a href="https://linkedin.com/in/xiaowuc2">​LinkedIn​</a> / <a href="https://github.com/rougier">​GitHub​</a> / <a href="https://gist.github.com/xiaowuc2">Gist</a> / <a href="https://stackoverflow.com/users/3348261/nicolas-rougier">​Stackoveflow​</a> / <a href="https://www.quora.com/profile/Rohit-Prasan-Mandal">Quora</a> / <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​YouTube​</a></pre></p>
+<strong>Rohit P Mandal /</strong> <a href="https://xiaowuc2.vercel.app">​Homepage​</a> / <a href="https://twitter.com/xiaowuc2">Twitter</a> / <a href="https://linkedin.com/in/xiaowuc2">​LinkedIn​</a> / <a href="https://github.com/xiaowuc2">​GitHub​</a> / <a href="https://www.quora.com/profile/Rohit-Prasan-Mandal">Quora</a> / <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​YouTube​</a></pre></p>
 
  I’m an undergraduate machine learning researcher, currently working on research 
  projects pertaining to Computer Vision and Deep Learning.  I've experience in both industrial research and academic research in 
