@@ -13,9 +13,7 @@
 
 ### Projects ​
    - **[Breast Cancer Prediction: A Machine Learning Approach](https://github.com/xiaowuc2/Breast-Cancer-Prediction-A-Machine-Learning-Approach)** <br> 
-> This proposed project & paper presents a comparison of six machine learning algorithms: XGBoost Classifier, Random Forest, KNN Classifier, Logistic Regression, SVM Classification, Decision Tree on the Wisconsin Diagnostic Breast Cancer dataset which is extracted from a digitised image of an MRI. Our research led to 94.96% accuracy with Logistic Regression.
    - **[Simple Harmonic Motion: Data Visulization](https://github.com/qxresearch/Simple-Harmonic-Motion)**<br> 
-> This is a physics data visualization project using matplotlib to create a live SHM graph.
 
 ### Publication ​
   
