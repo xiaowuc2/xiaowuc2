@@ -21,7 +21,6 @@
   
   - **[Variational Autoencoder based Imbalanced Alzheimer detection using Brain MRI Images]()** (2021)
   - **[Breast Cancer Classification: Comparison Between Machine Learning Techniques]()** (2021)
-  - **[Can computers think? Imitation of human intelligence](https://www.researchgate.net/publication/340645375_TITLE_CAN_COMPUTER_THINK_IMITATION_of_HUMAN_INTELLIGENCE)** (2020)
   
 ### Talks ​
 
