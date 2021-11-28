@@ -20,6 +20,7 @@
 ### Publication ​
   
   - **[Variational Autoencoder based Imbalanced Alzheimer detection using Brain MRI Images]()** (2021)
+  - **[Soil moisture prediction on images usingTransfer Learning]()** (2021)
   - **[Breast Cancer Classification: Comparison Between Machine Learning Techniques]()** (2021)
   
 ### Talks ​
