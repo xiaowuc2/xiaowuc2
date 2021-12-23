@@ -19,7 +19,7 @@
 
 ### Publication ​
   
-  - **[Variational Autoencoder based Imbalanced Alzheimer detection using Brain MRI Images]()** (2021)
+  - **[Variational Autoencoder based Imbalanced Alzheimer detection using Brain MRI Images]()** (2021) (Accepted: IEMICDC (Springer))
   - **[Soil moisture prediction on images using Transfer Learning]()** (2021)
   - **[Breast Cancer Classification: Comparison Between Machine Learning Techniques]()** (2021)
   
