@@ -12,7 +12,7 @@
 <br>
 
 ### Projects ​
-   - **[VAE: Alzheimer Detection Using Imbalanced MRI Images](https://github.com/xiaowuc2/Variational-Autoencoder-Alzheimer-Detection-Using-Imbalanced-MRI-Images)** (Python)
+   - **[VAE: Alzheimer Detection Using Imbalanced MRI Images](https://github.com/xiaowuc2/VAE-Alzheimer-Detection-Using-Imbalanced-MRI-Images)** (Python)
    - **[cognoPy: Computer Vision App Detects Smile and Reason](https://github.com/cognoPy/cognoPy)** (Python)
    - **[Covid-19 Classification: A Simple Supervised ML Approach](https://github.com/xiaowuc2/COVID-Classifier-a-simpler-supervised-machine-learning-model)** (Python)
    - **[Breast Cancer Prediction: A Machine Learning Approach](https://github.com/xiaowuc2/Breast-Cancer-Prediction-A-Machine-Learning-Approach)** (Python)
