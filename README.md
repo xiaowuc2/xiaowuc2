@@ -19,7 +19,7 @@
   
 ### Videos(Instructor) ​
 
-- **[Python for Machine Learning]() : [Repository]()** 
+- **[Python for Machine Learning]() : [Repository]()** This course serves as an example of my course development work for IEMLabs.
 - **[10 Lines of Code](https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM) : [Repository](https://github.com/qxresearch/qxresearch-event-1)** I've explained how 10 lines of python codes could automate and can be applied everyday life
 - **[Code in Place Solutions](https://www.youtube.com/watch?v=5JpVuQNYoho&list=PLK_zxbpEUfmWO7zL7661s8ck4Ly2m0m-m) : [Repository](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution)** Solution of a volunteer-led course called Code in Place, hosted by Stanford University
 
