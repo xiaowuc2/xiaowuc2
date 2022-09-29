@@ -6,8 +6,7 @@
 
  I’m an undergraduate machine learning researcher, currently working on research 
  projects pertaining to Computer Vision and Deep Learning.  I've experience in both industrial research and academic research in 
- the field of Machine Learning and Computer Vision.
- I will be applying for a masters/PhD in Computer Vision/Theoretical AI.
+ the field of Machine Learning and Computer Vision. I'm willing to acquire more advanced knowledge in the field of Artificial Intelligence, Machine Learning and Data Science.
   
 <br>
 
