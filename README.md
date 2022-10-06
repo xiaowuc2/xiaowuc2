@@ -5,7 +5,7 @@
 <strong>Rohit P Mandal /</strong> <a href="https://xiaowuc2.vercel.app">​Homepage​</a> / <a href="https://twitter.com/xiaowuc2">Twitter</a> / <a href="https://linkedin.com/in/xiaowuc2">​LinkedIn​</a> / <a href="https://scholar.google.com/citations?user=iHd8-ZkAAAAJ&hl=en">​Google Scholar​</a> / <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​YouTube​</a></pre></p>
 
  I’m an undergraduate machine learning researcher, currently working on research 
- projects pertaining to Computer Vision and Deep Learning.  I've experience in both industrial research and academic research in 
+ projects pertaining to Computer Vision and Deep Learning.  I've experience in both industrial research academic research in 
  the field of Machine Learning and Computer Vision. I'm willing to acquire more advanced knowledge in the field of Artificial Intelligence, Machine Learning and Data Science.
   
 <br>
