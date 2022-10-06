@@ -12,7 +12,7 @@
 
 ### Skills
 
-`Python` `c` `c++` `SQL` `Deep Learning` `Machine Learning Frameworks: sci-kit-learn, Pandas, Numpy, TensorFlow, Pytorch, Keras`  
+`Python` `c` `c++` `SQL` `Data Structure``Deep Learning` `Machine Learning Frameworks: sci-kit-learn, Pandas, Numpy, TensorFlow, Pytorch, Keras`  
 
 `Object Detection` `Data Imbalance` `Image Classification` `Generative Adversarial Network`
 
