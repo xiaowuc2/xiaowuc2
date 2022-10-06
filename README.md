@@ -10,6 +10,12 @@
   
 <br>
 
+### Skills
+
+`Python` `c` `c++` `SQL` `Deep Learning` `Machine Learning Frameworks: sci-kit-learn, Pandas, Numpy, TensorFlow, Pytorch, Keras`  
+
+`Object Detection` `Data Imbalance` `Image Classification` `Generative Adversarial Network`
+
 ### Projects ​
    - **[VAE: Alzheimer Detection on Imbalanced MRI Images](https://github.com/xiaowuc2/VAE-Alzheimer-Detection-Using-Imbalanced-MRI-Images)** (Python) [springer conference](https://link.springer.com/chapter/10.1007/978-981-19-1657-1_14)
    - **[Soil Moisture Detection using Transfer Learning]()** (Tensorflow)
