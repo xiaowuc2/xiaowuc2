@@ -19,6 +19,7 @@
 ### Projects ​
    - **[VAE: Alzheimer Detection on Imbalanced MRI Images](https://github.com/xiaowuc2/VAE-Alzheimer-Detection-Using-Imbalanced-MRI-Images)** (Python) [springer conference](https://link.springer.com/chapter/10.1007/978-981-19-1657-1_14)
    - **[Soil Moisture Detection using Transfer Learning]()** (Tensorflow)
+   - **[Cryptographically Secured Random Number Generator]()** (Python) (Arduino) (Azure)
    - **[cognoPy: Computer Vision App Detects Smile and Reason](https://github.com/cognoPy/cognoPy)** (Python App)
    - **[Covid-19 Classification: A Simple Supervised ML Approach](https://github.com/xiaowuc2/COVID-Classifier-a-simpler-supervised-machine-learning-model)** (Python)
    - **[Breast Cancer Prediction: A Machine Learning Approach](https://github.com/xiaowuc2/Breast-Cancer-Prediction-A-Machine-Learning-Approach)** (Python)
@@ -27,10 +28,11 @@
 
 - **[Python for Machine Learning]()** : This course serves as an example of my course development work for IEMLabs.
 - **[10 Lines of Code](https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM)** : I've explained how 10 lines of python codes could automate and can be applied everyday life
+- **[Visualizing Unsoved Hypothesis in Mathematics]()** : Collatz Conjecture, abc Conjecture, Rayman Hypothesis
 - **[Code in Place Solutions](https://www.youtube.com/watch?v=5JpVuQNYoho&list=PLK_zxbpEUfmWO7zL7661s8ck4Ly2m0m-m)** : Solution of a volunteer-led course called Code in Place, hosted by Stanford University
 
 ### Lecture Notes
-
+   
    - **[Matlab for Machine Learning](https://github.com/qxresearchx/matlab-for-machine-leaning)** is instroduction to MATLAB for machine learning  and application @qxresearch
    - **[10 Lines of Python Code](https://github.com/qxresearch/qxresearch-event-1)** could automate boring stuffs and solve real-life problems under 10 lines of code @qxresearch 
    - **[Python for Machine Learning]() : [Repository]()** This course serves as an example of my course development work for IEMLabs.
