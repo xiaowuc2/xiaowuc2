@@ -29,7 +29,7 @@
 - **[Python for Machine Learning]()** : This course serves as an example of my course development work for IEMLabs.
 - **[10 Lines of Code](https://www.youtube.com/watch?v=B0_0gK_CUpM&list=PLK_zxbpEUfmVPsXnl1wx1s6BD8eBUjuOM)** : I've explained how 10 lines of python codes could automate and can be applied everyday life
 - **[Visualizing Unsoved Hypothesis in Mathematics]()** : Collatz Conjecture, abc Conjecture, Rayman Hypothesis
-- **[LeetCode Solutions](https://www.youtube.com/watch?v=5JpVuQNYoho&list=PLK_zxbpEUfmWO7zL7661s8ck4Ly2m0m-m)** : Recorded these videos while I was practicing LeetCode for Data Structure and Algorithm with Python
+- **[LeetCode Solutions](https://www.youtube.com/watch?v=5JpVuQNYoho&list=PLK_zxbpEUfmWO7zL7661s8ck4Ly2m0m-m)** : Recorded these videos while I was practicing  Data Structure and Algorithm with Python
 
 ### Lecture Notes
    
