@@ -14,11 +14,10 @@
   
 <br>
 
-### Skills
+### Courses
+- [computational-thinking : python](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : My Python course to crack coding interviews (LeetCode). (Recorded / 1:1)
+- [Let's Have an intellectual conversation](https://www.linkedin.com/in/xiaowuc2/) : `rohitmandal814566@gmail.com`
 
-`Python` `c` `c++` `SQL` `Data Structure``Deep Learning` `Machine Learning Frameworks: sci-kit-learn, Pandas, Numpy, TensorFlow, Pytorch, Keras`  
-
-`Object Detection` `Data Imbalance` `Image Classification` `Generative Adversarial Network`
 
 ### Projects ​
    - **[VAE: Alzheimer Detection on Imbalanced MRI Images](https://github.com/xiaowuc2/VAE-Alzheimer-Detection-Using-Imbalanced-MRI-Images)** (Python) [springer conference](https://link.springer.com/chapter/10.1007/978-981-19-1657-1_14)
