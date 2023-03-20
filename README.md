@@ -20,8 +20,8 @@
 
 
 ### Projects ​
-   - **[VAE: Alzheimer Detection on Imbalanced MRI Images](https://github.com/xiaowuc2/VAE-Alzheimer-Detection-Using-Imbalanced-MRI-Images)** [springer](https://link.springer.com/chapter/10.1007/978-981-19-1657-1_14)
-   - **[Soil Moisture Detection using Transfer Learning]()** (Tensorflow) [O’Reilly](https://www.oreilly.com/library/view/intelligent-decision-support/9781119896432/c10.xhtml) [Wiley](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119896951.ch10)
+   - **[VAE: Alzheimer Detection on Imbalanced MRI Images](https://github.com/xiaowuc2/VAE-Alzheimer-Detection-Using-Imbalanced-MRI-Images) Paper :**  [springer](https://link.springer.com/chapter/10.1007/978-981-19-1657-1_14)
+   - **[Soil Moisture Detection using Transfer Learning]() Paper :** [O’Reilly](https://www.oreilly.com/library/view/intelligent-decision-support/9781119896432/c10.xhtml)
    - **[Cryptographically Secured Random Number Generator]()** 
    - **[cognoPy: Computer Vision App Detects Smile and Reason](https://github.com/cognoPy/cognoPy)**
    - **[Covid-19 Classification: A Simple Supervised ML Approach](https://github.com/xiaowuc2/COVID-Classifier-a-simpler-supervised-machine-learning-model)**
