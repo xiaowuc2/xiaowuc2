@@ -8,13 +8,13 @@
 <br>
 
 ### Courses
-- [computational-thinking : python](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : My Python course to crack coding interviews (LeetCode). (Recorded / 1:1)
-- [Let's Have an intellectual conversation](https://www.linkedin.com/in/xiaowuc2/) : `rohitmandal814566@gmail.com`
+- **[computational-thinking : python](https://xiaowuc2.vercel.app/posts/computational-thinking-python) :** My Python course to crack coding interviews (LeetCode). (Recorded / 1:1)
+- **[Let's Have an intellectual conversation](https://www.linkedin.com/in/xiaowuc2/) :** `rohitmandal814566@gmail.com`
 
 
 ### Projects ​
-   - **[VAE: Alzheimer Detection on Imbalanced MRI Images](https://github.com/xiaowuc2/VAE-Alzheimer-Detection-Using-Imbalanced-MRI-Images) Paper :**  [springer](https://link.springer.com/chapter/10.1007/978-981-19-1657-1_14)
-   - **[Soil Moisture Detection using Transfer Learning]() Paper :** [O’Reilly](https://www.oreilly.com/library/view/intelligent-decision-support/9781119896432/c10.xhtml)
+   - **[VAE: Alzheimer Detection on Imbalanced MRI Images](https://github.com/xiaowuc2/VAE-Alzheimer-Detection-Using-Imbalanced-MRI-Images) **  ([springer](https://link.springer.com/chapter/10.1007/978-981-19-1657-1_14)(
+   - **[Soil Moisture Detection using Transfer Learning]() ** ([O’Reilly](https://www.oreilly.com/library/view/intelligent-decision-support/9781119896432/c10.xhtml))
    - **[Cryptographically Secured Random Number Generator]()** 
    - **[cognoPy: Computer Vision App Detects Smile and Reason](https://github.com/cognoPy/cognoPy)**
    - **[Covid-19 Classification: A Simple Supervised ML Approach](https://github.com/xiaowuc2/COVID-Classifier-a-simpler-supervised-machine-learning-model)**
