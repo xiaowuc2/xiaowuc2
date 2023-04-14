@@ -16,9 +16,10 @@
    - **[Soil Moisture Detection using Transfer Learning]()** <[O’Reilly](https://www.oreilly.com/library/view/intelligent-decision-support/9781119896432/c10.xhtml)>
 
 <br>
+<br>
 
 <p align="center">
- <td><img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/readme%20source/1.1.png" alt="Visitors" height="180" /></td>
+ <td><img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/readme%20source/102.gif" alt="Visitors" height="100" /></td>
 </p>
 
 
