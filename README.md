@@ -15,9 +15,14 @@
    - **[VAE: Alzheimer Detection on Imbalanced MRI Images](https://github.com/xiaowuc2/VAE-Alzheimer-Detection-Using-Imbalanced-MRI-Images)**  <[Springer](https://link.springer.com/chapter/10.1007/978-981-19-1657-1_14)>
    - **[Soil Moisture Detection using Transfer Learning]()** <[O’Reilly](https://www.oreilly.com/library/view/intelligent-decision-support/9781119896432/c10.xhtml)>
 
+<br>
 
- <h4 align="center">
+<p align="center">
+ <td><img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/readme%20source/1.1.png" alt="Visitors" height="180" /></td>
 </p>
+
+
+<h4 align="center">
 <p align="center">
  <td><img src="https://profile-counter.glitch.me/xiaowuc2/count.svg" alt="Visitors" height="19" /></td>
 </p>
