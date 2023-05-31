@@ -7,7 +7,7 @@ I am a Machine Learning Researcher, currently working in IBM with expertise in s
 
 <br>
 
-- **[computational-thinking : python](https://xiaowuc2.vercel.app/posts/computational-thinking-python) :** My Python course to crack coding interviews. (Contact me)
+- **[computational-thinking : python](https://qxresearch.github.io/python/) :** My Python course to crack coding interviews. (Contact me)
 - **[Let's Have an intellectual conversation](https://www.linkedin.com/in/xiaowuc2/) :** `rohitmandal814566@gmail.com`
 
 <br>
