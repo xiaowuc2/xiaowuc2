@@ -3,7 +3,7 @@
   <p><pre align="center">
 <strong>Rohit P Mandal /</strong> <a href="https://xiaowuc2.vercel.app">​Homepage​</a> / <a href="https://twitter.com/xiaowuc2">Twitter</a> / <a href="https://linkedin.com/in/xiaowuc2">​LinkedIn​</a> / <a href="https://scholar.google.com/citations?user=iHd8-ZkAAAAJ&hl=en">​Google Scholar​</a> / <a href="https://leetcode.com/xiaowuc2">​LeetCode​</a> / <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​YouTube​</a></pre></p>
 
-I am a Machine Learning Researcher, currently working in IBM with expertise in solving real-world problems through coding. Taught 10,000+ students & working professionals to crack coding interviews and land their dream job. My research has been recognized through publications in esteemed journals such as Springer[^1] and O'Reilly[^2]. 
+I am a Machine Learning Researcher, expertise in solving real-world problems through coding. Taught 10,000+ students & working professionals to crack coding interviews and land their dream job. My research has been recognized through publications in esteemed journals such as Springer[^1] and O'Reilly[^2]. 
 
 <br>
 
