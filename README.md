@@ -7,6 +7,7 @@ I am a Machine Learning Researcher, expertise in solving real-world problems thr
 
 <br>
 
+- Creator & Lead Maintainer of : [qxresearchAI](http://www.qxresearch.org/) Stars : 1800+ 
 - Stanford CIP Section Leader : [Certificate](https://digitalcredential.stanford.edu/check/B506EC9312CFC25A9645B34A9B9A005E1B68099F49F5DBC8B0F28FCD9525C59Cb2Nma3dPOVN6QjQwMW9vNWhpaENsZGNnck5BOFF0d3lqbnZERmpuT0tpVEtiNWZQ) Year : 2023 2024 
 - YouTube Project Tutorials : [qxresearchAI](https://www.youtube.com/@qxresearch/featured) Views : 32,559 
 - Technical Writing : [HackerNoon](https://hackernoon.com/50-python-projects-10-lines-of-code)  Reads : 16,403 
