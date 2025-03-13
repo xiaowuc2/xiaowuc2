@@ -22,14 +22,20 @@ I am a Machine Learning Researcher, expertise in solving real-world problems thr
 
 <br>
 
-1. Water Content Prediction in Smart Agriculture of Rural India Using CNN and Transfer Learning Approach. [Link](https://www.oreilly.com/library/view/intelligent-decision-support/9781119896432/c10.xhtml)
-2. Variational Autoencoder-Based Imbalanced Alzheimer Detection Using Brain MRI Images. [Link](https://link.springer.com/chapter/10.1007/978-981-19-1657-1_14)<br>
+- Water Content Prediction in Smart Agriculture of Rural India Using CNN and Transfer Learning Approach. [Link](https://www.oreilly.com/library/view/intelligent-decision-support/9781119896432/c10.xhtml)
+- Variational Autoencoder-Based Imbalanced Alzheimer Detection Using Brain MRI Images. [Link](https://link.springer.com/chapter/10.1007/978-981-19-1657-1_14)<br>
 
 <br>
 
 <p><pre align="center">
   <strong>Research Projects</strong>
 </pre></p>
+
+<br>
+
+- Advancing AI-Powered Interactions: A Research-Driven ChatGPT API Application (2024) [Link](https://github.com/xiaowuc2/ChatGPT-Python-Applications)
+
+<br>
 
 Currently Preparing for Google Summer of Code (GSoC) 2025!
 
