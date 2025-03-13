@@ -35,6 +35,7 @@ I am a Machine Learning Researcher, expertise in solving real-world problems thr
 <br>
 
 - Advancing AI-Powered Interactions: A Research-Driven ChatGPT API Application (2024) [Link](https://github.com/xiaowuc2/ChatGPT-Python-Applications)
+- Gemma: Function Calling in Real-World Applications (2025) [Link]()
 
 <br>
 
