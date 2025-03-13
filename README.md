@@ -28,9 +28,8 @@ I am a Machine Learning Researcher, expertise in solving real-world problems thr
 <br>
 
 <p><pre align="center">
- 🚀 Join qxresearchAI – Open Source for Global Impact 
+  <strong>Research Projects</strong>
 </pre></p>
 
 Currently Preparing for Google Summer of Code (GSoC) 2025!
 
-<br>
