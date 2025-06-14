@@ -43,5 +43,4 @@ I am a Machine Learning Researcher, expertise in solving real-world problems thr
 
 <br>
 
-Currently Preparing for Google Summer of Code (GSoC) 2025!
 
