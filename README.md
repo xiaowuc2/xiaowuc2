@@ -17,10 +17,11 @@ I am a Machine Learning Researcher, expertise in solving real-world problems thr
 
 <br>
 
-
+<!--
 <p><pre align="center">
   <strong>Research Projects</strong>
 </pre></p>
+
 
 <br>
 
@@ -29,7 +30,7 @@ I am a Machine Learning Researcher, expertise in solving real-world problems thr
 - Advancing AI-Powered Interactions: A Research-Driven ChatGPT API Application (2024) [Link](https://github.com/xiaowuc2/ChatGPT-Python-Applications)
 
 <br>
-
+-->
 
 
 <p><pre align="center">
