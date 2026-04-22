@@ -9,12 +9,13 @@ I have provided structured mentoring to international learners in programming fu
 
 I have published research in applied machine learning, including Springer proceedings on Alzheimer’s detection using brain MRI images and CNN-based approaches for smart agriculture applications.
 
-- Creator & Lead Maintainer of: [qxresearch AI](http://www.qxresearch.org/) (Open-source ML & Python platform with 2,600+ GitHub stars)  
-- Stanford Code in Place Section Leader: Mentored global learners in Python and problem-solving ( [2023](https://digitalcredential.stanford.edu/check/B506EC9312CFC25A9645B34A9B9A005E1B68099F49F5DBC8B0F28FCD9525C59Cb2Nma3dPOVN6QjQwMW9vNWhpaENsZGNnck5BOFF0d3lqbnZERmpuT0tpVEtiNWZQ), 2024, 2026 )  
-- Industry Experience: IBM, Jio (training programs → offer letters), Juppiter AI Labs (internship), IEMLabs (internship)  
-- Independent AI & Programming Mentor: 1:1 mentoring in Python, DSA, and machine learning for global learners  
-- YouTube Educational Content: [qxresearch AI](https://www.youtube.com/@qxresearch/featured) (32,000+ views on Python & AI tutorials)  
-- Technical Writing: [HackerNoon](https://hackernoon.com/50-python-projects-10-lines-of-code) (21,000+ reads)  
+
+- **Open Source Lead:** Creator & maintainer of [qxresearch AI](http://www.qxresearch.org/) (2,600+ GitHub stars)  
+- **Stanford Code in Place (CS106A):** Section Leader ([2023](https://digitalcredential.stanford.edu/check/B506EC9312CFC25A9645B34A9B9A005E1B68099F49F5DBC8B0F28FCD9525C59Cb2Nma3dPOVN6QjQwMW9vNWhpaENsZGNnck5BOFF0d3lqbnZERmpuT0tpVEtiNWZQ), 2024, 2026)  
+- **Industry Experience:** IBM, Jio (training programs → offer letters), Juppiter AI Labs, IEMLabs  
+- **AI Mentor:** Guided global learners in Python, DSA, and Machine Learning  
+- **Content Creation:** 32,000+ YouTube views on AI & Python tutorials  
+- **Technical Writing:** 21,000+ reads on [HackerNoon](https://hackernoon.com/50-python-projects-10-lines-of-code) 
 - Contact: `rohitmandal814566@gmail.com`
 
 <br>
