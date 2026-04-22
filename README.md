@@ -3,7 +3,11 @@
   <p><pre align="center">
 <strong>Rohit P Mandal /</strong> <a href="https://xiaowuc2.vercel.app">​Homepage​</a> / <a href="https://twitter.com/xiaowuc2">Twitter</a> / <a href="https://linkedin.com/in/xiaowuc2">​LinkedIn​</a> / <a href="https://scholar.google.com/citations?user=iHd8-ZkAAAAJ&hl=en">​Google Scholar​</a> / <a href="https://leetcode.com/xiaowuc2">​LeetCode​</a> / <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​YouTube​</a></pre></p>
 
-I am an Applied Machine Learning developer focused on solving real-world problems through Python, deep learning, and open-source systems. I have served as a Stanford Code in Place Section Leader, mentoring learners in Python and computational thinking. I also independently mentor learners worldwide in programming fundamentals and problem-solving for academic and career growth in software and AI. Published research in applied machine learning, including Springer proceedings on Alzheimer’s detection using brain MRI images and CNN-based smart agriculture applications.
+I am an Applied Machine Learning developer focused on building scalable machine learning solutions using Python, deep learning, and open-source systems. I have served as a Section Leader for Stanford Code in Place (CS106A), mentoring global learners in Python and computational thinking.
+
+I have provided structured mentoring to international learners in programming fundamentals, data structures, and machine learning, supporting their academic development and technical interview preparation. My work includes developing and maintaining open-source AI projects used by a global community.
+
+I have published research in applied machine learning, including Springer proceedings on Alzheimer’s detection using brain MRI images and CNN-based approaches for smart agriculture applications.
 
 - Creator & Lead Maintainer of: [qxresearch AI](http://www.qxresearch.org/) (Open-source ML & Python platform with 2,600+ GitHub stars)  
 - Stanford Code in Place Section Leader: Mentored global learners in Python and problem-solving ( [2023](https://digitalcredential.stanford.edu/check/B506EC9312CFC25A9645B34A9B9A005E1B68099F49F5DBC8B0F28FCD9525C59Cb2Nma3dPOVN6QjQwMW9vNWhpaENsZGNnck5BOFF0d3lqbnZERmpuT0tpVEtiNWZQ), 2024, 2026 )  
