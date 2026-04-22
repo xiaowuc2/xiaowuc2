@@ -3,17 +3,15 @@
   <p><pre align="center">
 <strong>Rohit P Mandal /</strong> <a href="https://xiaowuc2.vercel.app">​Homepage​</a> / <a href="https://twitter.com/xiaowuc2">Twitter</a> / <a href="https://linkedin.com/in/xiaowuc2">​LinkedIn​</a> / <a href="https://scholar.google.com/citations?user=iHd8-ZkAAAAJ&hl=en">​Google Scholar​</a> / <a href="https://leetcode.com/xiaowuc2">​LeetCode​</a> / <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​YouTube​</a></pre></p>
 
-I am a Machine Learning Researcher, expertise in solving real-world problems through coding. Stanford-certified teacher, having taught 10,000+ students and working professionals to crack coding interviews and land their dream jobs. My research has been recognized through publications in esteemed journals such as Springer and O'Reilly. 
+I am an Applied Machine Learning developer focused on solving real-world problems through Python, deep learning, and open-source systems. I have served as a Stanford Code in Place Section Leader, mentoring learners in Python and computational thinking. I also independently mentor learners worldwide in programming fundamentals and problem-solving for academic and career growth in software and AI. Published research in applied machine learning, including Springer proceedings on Alzheimer’s detection using brain MRI images and CNN-based smart agriculture applications.
 
-<br>
-
-- Creator & Lead Maintainer of : [qxresearchAI](http://www.qxresearch.org/) Stars : 2600+ 
-- Stanford CIP Section Leader : [Certificate](https://digitalcredential.stanford.edu/check/B506EC9312CFC25A9645B34A9B9A005E1B68099F49F5DBC8B0F28FCD9525C59Cb2Nma3dPOVN6QjQwMW9vNWhpaENsZGNnck5BOFF0d3lqbnZERmpuT0tpVEtiNWZQ) Year : 2023 2024 2026
-- Experience (Intership) : `IBM` `Jio` `JuppiterAILabs`
-- YouTube Project Tutorials : [qxresearchAI](https://www.youtube.com/@qxresearch/featured) Views : 32,756 
-- Technical Writing : [HackerNoon](https://hackernoon.com/50-python-projects-10-lines-of-code)  Reads : 21,035
-- My Python DSA Course : [computational-thinking : python](https://qxresearch.github.io/python/) 
-- Let's Have an intellectual conversation : `rohitmandal814566@gmail.com`
+- Creator & Lead Maintainer of: [qxresearch AI](http://www.qxresearch.org/) (Open-source ML & Python platform with 2,600+ GitHub stars)  
+- Stanford Code in Place Section Leader: Mentored global learners in Python and problem-solving ( [2023](https://digitalcredential.stanford.edu/check/B506EC9312CFC25A9645B34A9B9A005E1B68099F49F5DBC8B0F28FCD9525C59Cb2Nma3dPOVN6QjQwMW9vNWhpaENsZGNnck5BOFF0d3lqbnZERmpuT0tpVEtiNWZQ), 2024, 2026 )  
+- Industry Experience: IBM, Jio (training programs → offer letters), Juppiter AI Labs (internship), IEMLabs (internship)  
+- Independent AI & Programming Mentor: 1:1 mentoring in Python, DSA, and machine learning for global learners  
+- YouTube Educational Content: [qxresearch AI](https://www.youtube.com/@qxresearch/featured) (32,000+ views on Python & AI tutorials)  
+- Technical Writing: [HackerNoon](https://hackernoon.com/50-python-projects-10-lines-of-code) (21,000+ reads)  
+- Contact: `rohitmandal814566@gmail.com`
 
 <br>
 
