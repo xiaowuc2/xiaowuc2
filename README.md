@@ -10,9 +10,8 @@ I have provided structured mentoring to international learners in programming fu
 I have published research in applied machine learning, including Springer proceedings on Alzheimer’s detection using brain MRI images and CNN-based approaches for smart agriculture applications.
 
 
-- **Open Source Lead:** Creator & maintainer of [qxresearch AI](http://www.qxresearch.org/) (2,900+ GitHub stars)  
-- **Stanford Code in Place (CS106A):** Section Leader ([2023](https://digitalcredential.stanford.edu/check/B506EC9312CFC25A9645B34A9B9A005E1B68099F49F5DBC8B0F28FCD9525C59Cb2Nma3dPOVN6QjQwMW9vNWhpaENsZGNnck5BOFF0d3lqbnZERmpuT0tpVEtiNWZQ), [2024](https://digitalcredential.stanford.edu/check/3982BDBD161DEF46611BC710E035563CC42649AC34B858F517E2E111DF99912EWGZlcG0xRTdGclZ2NWVZL2xmU3g3SVpINGdwQzVXYktMY1dlSHVBK0pDeGlveU1t), [2026](https://digitalcredential.stanford.edu/check/F934A7045CF27E45B43CD4D0F3725D57236C4907C77BE4719C0DAA4171555F1CZXU5UG1qdWR6ZkZSclg2MVFid0I4dGdxYU9qRTFnaUxUeGVIWmtwUXBHSXh3ZVNs))  
-- **Industry Experience:** IBM, Jio (training programs → offer letters), Juppiter AI Labs, IEMLabs  
+- **Open Source Lead:** Creator & maintainer of [qxresearch AI](http://www.qxresearch.org/) (3,100+ GitHub stars)  
+- **Stanford Code in Place (CS106A):** Section Leader ([2023](https://digitalcredential.stanford.edu/check/B506EC9312CFC25A9645B34A9B9A005E1B68099F49F5DBC8B0F28FCD9525C59Cb2Nma3dPOVN6QjQwMW9vNWhpaENsZGNnck5BOFF0d3lqbnZERmpuT0tpVEtiNWZQ), [2024](https://digitalcredential.stanford.edu/check/3982BDBD161DEF46611BC710E035563CC42649AC34B858F517E2E111DF99912EWGZlcG0xRTdGclZ2NWVZL2xmU3g3SVpINGdwQzVXYktMY1dlSHVBK0pDeGlveU1t), [2026](https://digitalcredential.stanford.edu/check/F934A7045CF27E45B43CD4D0F3725D57236C4907C77BE4719C0DAA4171555F1CZXU5UG1qdWR6ZkZSclg2MVFid0I4dGdxYU9qRTFnaUxUeGVIWmtwUXBHSXh3ZVNs))   <!--**Industry Experience:** IBM, Jio (training programs → offer letters), Juppiter AI Labs, IEMLabs--> 
 - **AI Mentor:** Guided global learners in Python, DSA, and Machine Learning  
 - **Content Creation:** 32,000+ YouTube views on AI & Python tutorials  
 - **Technical Writing:** 21,000+ reads on [HackerNoon](https://hackernoon.com/50-python-projects-10-lines-of-code) 
